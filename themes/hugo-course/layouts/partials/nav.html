@@ -1,0 +1,34 @@
+<nav class="navbar is-transparent is-fixed-top has-shadow" role="navigation" aria-label="main navigation">
+        <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="{{ .Site.Params.course.dept_url}}" target="_blank">
+            {{ if .Site.Params.course.dept_logo }}
+            <img src="{{ $.Site.Params.course.dept_logo }}" alt="Logo" width="142" height="28">
+            {{ else }}
+            {{ .Site.Title }} - 
+            {{ end }}
+          </a>
+          {{ if not .IsHome }}
+          {{ with .Site.Params.course.name -}}
+          <div class="navbar-item">{{ . }}</div>
+          {{ end -}}
+          {{ end }}
+          <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+        <div id="navMenu" class="navbar-menu">
+          <div class="navbar-start">
+             
+          </div>
+      
+          <div class="navbar-end">
+            {{ range .Site.Menus.main }}
+            <a class="navbar-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            {{ end }}
+          </div>
+        </div>
+    </div>
+      </nav>

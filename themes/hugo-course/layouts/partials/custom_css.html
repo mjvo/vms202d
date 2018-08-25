@@ -1,0 +1,11 @@
+{{- with .Site.Params.course.hero_img }}
+    <style>
+        .is-img {
+            background:url("{{ . }}") center center;
+            background-size:cover;
+        }
+        .has-opacity {
+            background: rgba(0,0,0,.5)
+        }
+    </style>
+{{- end -}}

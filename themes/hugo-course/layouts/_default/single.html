@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="section is-medium">
+    <div class="container">
+        <h2 class="title">{{ .Title }}</h2>
+        <div class="columns">
+                <div class="column">
+                    <div class="content">
+                        {{ .Content }}
+                    </div>
+                </div>
+                <div class="column is-narrow">
+                    <aside class="menu">
+                        <p>Jump to:</p>
+                        <div class="menu-list">
+                        {{ .TableOfContents }}
+                        </div>
+                    </aside>
+                </div>
+        </div>
+    </div>
+</section>
+{{ end }}

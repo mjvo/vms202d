@@ -1,0 +1,49 @@
+<section class="section">
+    <div class="container">
+    <div class="content"><h2>Instructors</h2></div>
+    <div class="columns is-multiline">
+        {{ range .Site.Data.instructors }}
+        <div class="column {{ if eq .role "prof" }}is-half is-offset-one-quarter{{ end }}">
+                <div class="box">
+                        <article class="media">
+                          <div class="media-left">
+                            <figure class="image is-64x64">
+                              <img class="is-rounded" src="{{ .avatar }}" alt="Picture of {{ .Name }}">
+                            </figure>
+                          </div>
+                          <div class="media-content">
+                            <div class="content">
+                                <dl>
+                              <dt class="heading">{{ .title }}</dt>
+                              <dd><strong>{{ .name }}</strong><dd>
+                                </dl>
+                                <hr />
+                                <dl>
+                                    <dt class="heading">Email</dt>
+                                    <dd>{{ .email }}</dd>
+                                </dl>
+                                {{ if .telephone }}
+                                <dl>
+                                    <dt class="heading">Telephone</dt>
+                                    <dd>{{ .telephone }}</dd>
+                                </dl>
+                                {{ end }}
+                                <dl>
+                                    <dt class="heading">Office:</dt>
+                                    <dd>{{ .office }}</dd>
+                                </dl>
+                                {{ if .office_hours }}
+                                <dl>
+                                    <dt class="heading">Office Hours</dt>
+                                    <dd>{{ .office_hours }}</dd>
+                                </dl>
+                                {{ end }}
+                            </div>
+                          </div>
+                        </article>
+                      </div>  
+                    </div>  
+        {{ end }}
+    </div>
+</div>
+</section>

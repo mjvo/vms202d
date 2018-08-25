@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="section is-medium">
+  <div class="container">
+<h2 class="title">{{ .Title }}</h2>
+{{ range .Pages }}
+  <article>
+    <h3>{{ .Date.Format "January 1, 1999" }} - <a href={{ .Permalink }}>{{ .Title }}</a></h2>
+  </article>
+  </div>
+  </section>
+{{ end }}
+{{ end }}

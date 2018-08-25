@@ -1,0 +1,46 @@
+baseURL: "/"
+title: "Course #"
+
+defaultContentLanguage: en
+languages:
+  en:
+    lang: en
+    languageName: English
+    weight: 1
+
+MetaDataFormat: "yaml"
+
+theme: 
+  - "hugo-course"
+  - "reveal-hugo"
+
+FootnoteReturnLinkContents: "↩"
+
+outputFormats:
+  Reveal:
+    baseName: index
+    mediaType: text/html
+    isHTML: true
+
+params:
+  course:
+    name: "Course Name"
+    dept_url: "https://aahvs.duke.edu"
+    dept_logo: "http://placehold.it/284x56&text=DEPT+LOGO"
+    day_time: "Days of Week, hh:mm - hh:mm AM/PM"
+    location: "Room #, Building"
+    hero_img: "http://placehold.it/1920x1080&text=Hero+Image"
+    hero_img_credit: "Image: <a href=\"#\">Title</a> by <a href=\"#\">Author Name</a>, YEAR"
+
+  reveal_hugo:
+    theme: white
+    
+    width: 960
+    height: 540
+    margin: 0.1
+    min_scale: .1
+    max_scale: 1
+
+    highlight_theme: "atom-one-dark"
+    menu:
+      open_button: false
