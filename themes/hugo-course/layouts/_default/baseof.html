@@ -17,9 +17,7 @@
         {{- partial "custom_css.html" . }}
       </head>
   <body>
-    {{ if ne .Section "slides" }}
     {{- partial "header.html" . }}
-    {{ end -}}
 
     {{- block "main" . }} {{- end }}
 

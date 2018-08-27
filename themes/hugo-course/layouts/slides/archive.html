@@ -8,19 +8,13 @@
 <div class="card">
   <div class="card-image">
     <figure class="image is-16x9">
-      <a href={{ .Permalink }}><img src="{{ .URL }}{{ .Params.cover_img }}" alt="slidedeck cover image"></a>
+      <a href="{{ .Permalink }}"><img src="{{ .URL }}{{ .Params.cover_img }}" alt="slidedeck cover image"></a>
     </figure>
   </div>
   <div class="card-content">
     <div class="content">
-        <div class="level">
-          <div class="level-item"><time datetime="{{ .Date }} ">{{ .Date.Format "September 1, 2006" }}</time></div>
-          <div class="level-item"> {{ if .Params.cover_img_credit }}
-              {{ .Params.cover_img_credit | safeHTML }}
-              {{ end }}
-            </div>
-        </div>
-      <h3 class="title"><a href={{ .Permalink }}>{{ .Title }}</a></h3>
+          <p class="heading"><time datetime="{{ .Date }} ">{{ .Date.Format "September 1, 2006" }}</time></p>
+      <h3 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
       
     </div>
   </div>

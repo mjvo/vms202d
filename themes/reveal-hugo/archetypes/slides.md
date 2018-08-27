@@ -1,6 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+outputs: Reveal
+
+cover_img:
+
+
 ---
 
