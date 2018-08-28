@@ -1,5 +1,5 @@
-baseURL: "https://mjvo.github.io/course-stub"
-title: "Course #"
+baseURL: "https://mjvo.github.io/vms202d"
+title: "VMS 202D"
 
 defaultContentLanguage: en
 languages:
@@ -24,13 +24,13 @@ outputFormats:
 
 params:
   course:
-    name: "Course Name"
+    name: "Introduction to Visual Culture"
     dept_url: "https://aahvs.duke.edu"
-    dept_logo: "http://placehold.it/284x56&text=DEPT+LOGO"
-    day_time: "Days of Week, hh:mm - hh:mm AM/PM"
-    location: "Room #, Building"
-    hero_img: "http://placehold.it/1920x1080&text=Hero+Image"
-    hero_img_credit: "Image: <a href=\"#\">Title</a> by <a href=\"#\">Author Name</a>, YEAR"
+    dept_logo: "/images/AAHVS_Barcode_Logo.png"
+    day_time: "Tuesdays & Thursdays, 1:25 - 2:40 PM"
+    location: "A266 Smith Warehouse, Bay 10"
+    hero_img: "/images/graffiti_art.jpg"
+    hero_img_credit: "Image: <a href=\"https://www.flickr.com/photos/freefoto/15836467154\">Graffiti Art</a> by <a href=\"https://www.flickr.com/photos/freefoto/\">Ian Britton</a>, 2015"
 
   reveal_hugo:
     theme: white

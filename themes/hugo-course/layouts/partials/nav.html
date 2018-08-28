@@ -1,9 +1,9 @@
 <nav class="navbar is-transparent is-fixed-top has-shadow" role="navigation" aria-label="main navigation">
         <div class="container">
         <div class="navbar-brand">
-          <a class="navbar-item" href="{{ .Site.Params.course.dept_url}}" target="_blank">
+          <a class="navbar-item" href="{{ .Site.Params.course.dept_url }}" target="_blank">
             {{ if .Site.Params.course.dept_logo }}
-            <img src="{{ $.Site.Params.course.dept_logo }}" alt="Logo" width="142" height="28">
+            <img src="{{ $.Site.Params.course.dept_logo | relURL }}" alt="Logo" width="142" height="28">
             {{ else }}
             {{ .Site.Title }} - 
             {{ end }}

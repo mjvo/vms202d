@@ -3,7 +3,7 @@
     <div class="content"><h2>Instructors</h2></div>
     <div class="columns is-multiline">
         {{ range .Site.Data.instructors }}
-        <div class="column {{ if eq .role "prof" }}is-half is-offset-one-quarter{{ end }}">
+        <div class="column {{ if eq .role "prof" }}is-full{{ end }}">
                 <div class="box">
                         <article class="media">
                           <div class="media-left">
@@ -18,9 +18,10 @@
                               <dd><strong>{{ .name }}</strong><dd>
                                 </dl>
                                 <hr />
+                                {{ if eq .role "prof" }}<div class="columns"><div class="column">{{ end }}
                                 <dl>
                                     <dt class="heading">Email</dt>
-                                    <dd>{{ .email }}</dd>
+                                    <dd><a href="mailto:{{ .email }}">{{ .email }}</a></dd>
                                 </dl>
                                 {{ if .telephone }}
                                 <dl>
@@ -28,6 +29,7 @@
                                     <dd>{{ .telephone }}</dd>
                                 </dl>
                                 {{ end }}
+                                {{ if eq .role "prof" }}</div><div class="column">{{ end }}
                                 <dl>
                                     <dt class="heading">Office:</dt>
                                     <dd>{{ .office }}</dd>
@@ -35,9 +37,10 @@
                                 {{ if .office_hours }}
                                 <dl>
                                     <dt class="heading">Office Hours</dt>
-                                    <dd>{{ .office_hours }}</dd>
+                                    <dd>{{ .office_hours | safeHTML }}</dd>
                                 </dl>
                                 {{ end }}
+                                {{ if eq .role "prof" }}</div></div>{{ end }}
                             </div>
                           </div>
                         </article>
