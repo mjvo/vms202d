@@ -33,7 +33,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 1 (pp. 29 - 48)
+* _Practices of Looking_, Chapter 1 (pp. 29 - 49)
 
 
 ---
@@ -65,7 +65,7 @@ Meet at the Nasher Museum of Art at your assigned discussion section time. Your 
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 2 (pp. 49 – 72)
+* _Practices of Looking_, Chapter 2 (pp. 51 – 74)
 
 
 ---
@@ -75,7 +75,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 2 (pp. 72 – 92)
+* _Practices of Looking_, Chapter 2 (pp. 74 – 88)
 
 * Stuart Hall, “Encoding / Decoding” (1980) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_. Malden, MA: Blackwell Publishing. pp. 163-173.
 
@@ -127,7 +127,7 @@ Re-Read: (Seriously, re-read! These are difficult texts)
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 3 (pp. 93 – 120)
+* _Practices of Looking_, Chapter 3 (pp. 89 – 113)
 
 
 ---
@@ -137,7 +137,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 3 (pp. 120 – 139)
+* _Practices of Looking_, Chapter 3 (pp. 113 – 138)
 
 
 ---
@@ -154,7 +154,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 4 (pp. )
+* _Practices of Looking_, Chapter 4 (pp. 139-158)
 
 
 ---
@@ -164,7 +164,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 4 (pp. )
+* _Practices of Looking_, Chapter 4 (pp. 158-177)
 
 
 ---
@@ -215,7 +215,7 @@ Reading Due:
 
 Reading/Viewing Due:
 
-* _Practices of Looking_, Chapter 5 (pp 183 – 203)
+* _Practices of Looking_, Chapter 5 (pp 179 – 198)
 
 * [Look Inside the World of Chinese ‘Copy Culture’](https://www.youtube.com/watch?v=ZbZDO5y43ZU) [00:25:37]
 
@@ -234,7 +234,7 @@ Reading/Viewing Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 5 (pp.)
+* _Practices of Looking_, Chapter 5 (pp. 198-218)
 
 
 ---
@@ -260,7 +260,7 @@ Read:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 6
+* _Practices of Looking_, Chapter 6 (pp. 219-234)
 
 
 ---
@@ -270,7 +270,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 6
+* _Practices of Looking_, Chapter 6 (pp. 234-256)
 
 
 ---
@@ -287,7 +287,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 7
+* _Practices of Looking_, Chapter 7 (pp. 257-278)
 
 
 ---
@@ -297,7 +297,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 7
+* _Practices of Looking_, Chapter 7 (pp. 278-299)
 
 
 ---
@@ -314,7 +314,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 8
+* _Practices of Looking_, Chapter 8 (pp. 301-322)
 
 
 ---
@@ -324,7 +324,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 8
+* _Practices of Looking_, Chapter 8 (pp. 322-336)
 
 
 ---
@@ -341,7 +341,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 9
+* _Practices of Looking_, Chapter 9 (pp 337-357)
 
 
 ---
@@ -361,7 +361,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 9
+* _Practices of Looking_, Chapter 9 (pp 357-378)
 
 ---
 
@@ -372,7 +372,7 @@ Reading Due:
 
 * Karl Marx, “The Communist Manifesto”
 
-* _Practices of Looking_, Chapter 10
+* _Practices of Looking_, Chapter 10 (pp. 379-402)
 
 
 ---
@@ -389,7 +389,7 @@ Reading Due:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 10,
+* _Practices of Looking_, Chapter 10 (pp. 402-423)
 
 
 ---
