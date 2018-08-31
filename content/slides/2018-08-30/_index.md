@@ -3,7 +3,7 @@ title: 'Images, Power, and Politics, Part 1'
 date: "2018-08-30"
 outputs: "Reveal"
 
-cover_img: "nathan-anderson-99542-unsplash.jpg" # same dir as slideshow
+cover_img: "graphic-warning.jpg" # same dir as slideshow
 
 reveal_hugo:
     theme: black
