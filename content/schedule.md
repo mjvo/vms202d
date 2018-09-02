@@ -44,10 +44,10 @@ Reading Due:
 Reading Due:
 
 * Anderson, S. (2016, August 11). [“Fractured Lands: How the Arab World Came Apart.”](https://www.nytimes.com/interactive/2016/08/11/magazine/isis-middle-east-arab-spring-fractured-lands.html) _The New York Times_.   
-Note: Come prepared to discuss one particular passage from the text and one image that you found compelling.
 
-* Selection from Barthes, Roland. (1981). _Camera Lucida_.
-
+* Selection from Barthes, Roland. (1981/1993). [_Camera Lucida: Reflections on Photography_](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/barthes1981_Camera_Lucida_selection.pdf).  (Richard Howard, trans.).  London:  Vintage Books.
+    
+    Note: Come prepared to discuss one particular passage from the Barthes text and one image from the NYT article that you found compelling.
 
 ---
 
@@ -77,7 +77,7 @@ Reading Due:
 
 * _Practices of Looking_, Chapter 2 (pp. 74 – 88)
 
-* Stuart Hall, “Encoding / Decoding” (1980) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_. Malden, MA: Blackwell Publishing. pp. 163-173.
+* Stuart Hall, [“Encoding / Decoding”](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/hall1980_EncodingDecoding.pdf) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
 
 
 ---
@@ -94,9 +94,9 @@ Reading Due:
 
 Reading Due:
 
-* Barthes, Roland. (1967⁄1977). “Death of the Author.” in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
+* Barthes, Roland. (1967⁄1977). [“Death of the Author.”](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/barthes1977_DeathOfTheAuthor.pdf) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
 
-* Foucault, Michel. (1967⁄1998). “What is an Author?” in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
+* Foucault, Michel. (1969⁄1998). [“What is an Author?”](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/foucault1969_WhatIsAnAuthor.pdf) in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
 
 
 ---
