@@ -59,9 +59,13 @@ _“People Get Ready,” The Nasher Museum of Art_
 Meet at the Nasher Museum of Art at your assigned discussion section time. Your TAs and [Dr. Julia McHugh](https://today.duke.edu/2018/06/new-carmichael-curator-julia-mchugh-home-museum-ancient-americas-art), Trent A. Carmichael Curator of Academic Initiatives at the Nasher, will meet you for a tour of the [“People Get Ready” exhibition](https://nasher.duke.edu/exhibitions/people-get-ready-building-a-contemporary-collection/). Your first paper assignment will build on this experience.
 
 All visitors must leave any bags/purses in the lockers by the lecture hall (to the right of the wall painting. **The lockers require a quarter that will be returned.** Locker users should take the key with them and leave it in the locker's keyhole when they are done.
+
 * No food or drinks are allowed in the museum.
+
 * No pens are allowed in the galleries or storage. **Only pencils may be used for note-taking.**
+
 * Visitors are asked to be aware of their surroundings at all times and to not touch the art or lean on walls, tables, or display cases.
+
 * Parking is extremely limited and closely monitored. Please plan to walk or take the bus to the museum.
 
 ---
