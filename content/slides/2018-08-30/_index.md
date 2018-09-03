@@ -51,7 +51,7 @@ _Do_ you see?
 
 ---
 
-<img src="https://cdn.cnn.com/cnnnext/dam/assets/150218151711-graphic-warning---multiple-images-exlarge-169.jpg" />
+<img src="graphic-warning.jpg" alt="warning: graphic images" />
 
 ---
 
@@ -69,7 +69,7 @@ mimesis vs. construction
 
 ---
 
-<img src="https://amp.businessinsider.com/images/576d330d910584cc008cb7c5-1920-1440.jpg" />
+<img src="https://amp.businessinsider.com/images/576d330d910584cc008cb7c5-1920-1440.jpg" alt="Flag Raising at Iwo-Jima" />
 
 ---
 
@@ -84,15 +84,15 @@ mimesis vs. construction
 
 ## Indeterminacy
 
-<img src="http://neurosciencefordesigners.com/wp-content/uploads/2016/12/optical-illusion-profile.jpg" /> 
+<img src="optical-illusion-profile.jpg" alt="profile or face-forward?" /> 
 
 ---
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a8/The_Dress_%28viral_phenomenon%29.png" width = "50%" />
+<img src="the_dress.png" width = "50%" alt="the dress viral - blue or gold" />
 
 ---
 ## Polysemy 
 
-<img src="https://d.ibtimes.co.uk/en/full/1426230/hag.jpg?w=580&e=0944b405c8c833eb6a9eaed536a22454" />
+<img src="hag.jpg" alt="young or old" />
 
 ---
 
@@ -103,12 +103,12 @@ Wittgenstein
 
 ### Kanizsa Triangle
 
-<img src="https://iristech.co/wp-content/uploads/2017/10/225.jpg" width="30%" />
+<img src="kaniza_triangle.jpg" width="30%" />
 
 ---
 
 ### Representation ≠ Simulation {{% fragment %}} ? {{% /fragment %}}
-<img src="https://amp.thisisinsider.com/images/5af201bdfb7ee22b028b4588-1334-1001.jpg" width="80%" />
+<img src="gambino_shooting.jpg" width="80%" alt="Childish Gambino, This is America, Shooting scene" />
 
 ---
 
