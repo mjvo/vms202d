@@ -107,4 +107,129 @@ The meaning of an image is:
 
 ---
 
+Tattoos and Semiotics
 
+<columns>
+<column><img src="tattoo-daughter.jpg" width="30%" /></column>
+<column><img src="back-tattoo_skull.jpg" width="30%" /></column>
+<column><img src="holocaust-tattoo.png" width="30%" /></column>
+</columns>
+
+---
+
+*  We can call physical marks by the name “signifier” <span style="color:#00D100;">_only when and if_</span> they conjure a <span style="color:#FF2600;">signified</span> to form a sign.
+
+* If they don’t, then they are NOT signifiers.
+
+---
+
+<img src="contour_line.png" width="30%" style="float:right;" />
+### Is this a signifier?
+
+{{% fragment %}} It is if it conjures a mental concept (signified), such as: {{% /fragment %}}
+
+{{% fragment %}} * A map to my apartment. {{% /fragment %}}
+
+{{% fragment %}} * A woman reclining on a chair {{% /fragment %}}
+
+---
+
+### A Quick Game of
+# PICTIONARY<sup>©</sup>
+
+---
+
+* Pictionary is the joint struggle to create a sign, such that the marks you make on the page become a signifier that “conjures up” the appropriate signified in the mind of your partner.<br /><br />
+
+* You may just end up making marks on the page that never become signifiers…
+
+<span style="color:red;">e.g. WHAT THE _*&%!!#_ ARE YOU DRAWING??!!??</span>
+
+---
+
+Signs are:
+
+* Abstract
+* Arbitrary *and* Conventional
+* Ambiguous
+
+---
+
+## Signs are <span style="text-decoration:underline">NOT</span> the concrete things that they represent…
+
+--- 
+
+#### There is no <span style="color:red;">_necessary_</span> relationship between the signifier and the signified.
+
+{{% fragment %}} * For example, there is no reason why we use “d” “o” “g” to refer to that cute fuzzy thing that’s yapping at the door.<br /><br /> {{% /fragment %}}
+
+{{% fragment %}} * Instead, we use “dog” because of our <span style="color:red;">CONVENTIONS...</span> {{% /fragment %}}
+
+---
+
+Charles Sanders Peirce developed a schema for understanding the different ways a sign can relate to its referent, asking:
+
+>How <span style="color:#3DACFF">_MOTIVATED_</span> is the sign by the ‘thing itself’?
+
+---
+
+## Degrees of Motivation
+#### (A continuum)<br /><br />
+
+* Symbol
+* Icon
+* Index
+
+---
+
+## Symbol
+
+* _**LOW**_ Degree of Motivation
+* The relationship between the sign and its referent is <span style="text-decoration:underline;">completely</span> <span style="color:#00D100;">ARBITRARY</span> or based on <span style="color:#00D100;">SOCIAL CONVENTION</span>.<br /><br />
+
+{{% fragment %}} Ex. The word “Spoon” or . . .  {{% /fragment %}}
+
+---
+
+{{< slide transition="zoom" transition-speed="fast" >}}
+
+![Stop Sign](stop_sign.png)
+
+---
+
+## Icon
+
+* _**MODERATE**_ Degree of Motivation
+* A sign which <span style="color:#00D100;">RESEMBLES</span> or <span style="color:#00D100;">LOOKS LIKE</span> its referent.<br /><br />
+
+{{% fragment %}} <img src="iconicity.png" width="80%" />  {{% /fragment %}}
+
+---
+
+[“Sad and Useless Things I Have Drawn”](https://www.sadanduseless.com/things-i-have-drawn/)
+
+---
+
+## Index
+
+* _**HIGH**_ Degree of Motivation
+* A sign that is <span style="color:#00D100;">PHYSICALLY PRODUCED</span> by its referent.<br /><br />
+* Examples:
+    * Smoke is an index of fire
+    * Sneezing is an index of a cold
+    * A fingerprint is an index of a thief
+
+---
+
+What about a photograph?   
+Like this image of Saussure?
+
+<img src="saussure.png" width="33%" />
+
+---
+
+## For next class:
+
+* Read:  Selections from Barthes' <span style="text-decoration:underline">Camera Lucida</span>
+
+* As you encounter the images in the assigned NYT article, note an image or two that engage your understanding of Barthes' concepts of _studium_ and _punctum_.   
