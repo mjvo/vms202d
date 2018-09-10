@@ -76,6 +76,8 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
         
         The first paper is a critical visual and spatial analysis of the [“People Get Ready” exhibition](https://nasher.duke.edu/exhibitions/people-get-ready-building-a-contemporary-collection/) at the Nasher.
 
+        [Detailed Requirements](../reqs/paper1.pdf)
+
         ---
 
     * _**Paper #2 (15%):**_ -- 8-9 pages in length   
