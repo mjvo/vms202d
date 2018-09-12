@@ -81,7 +81,22 @@ Reading Due:
 ---
 
 ## Thursday, September 13
-**Viewers Make Meaning, Part 2: Encoding / Decoding**
+
+<span class="tag is-danger">CLASS CANCELLED</span> - Hurrican Florence
+
+---
+
+## Friday, September 14
+**Sections**
+
+<span class="tag is-danger">CLASS CANCELLED</span> - Hurricane Florence
+
+---
+
+## Tuesday, September 18
+**Viewers Make Meaning, Part 2: Ideology and Encoding / Decoding**
+
+<span class="tag is-warning">Quiz</span>
 
 Reading Due:
 
@@ -89,37 +104,14 @@ Reading Due:
 
 * Stuart Hall, [“Encoding / Decoding”](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/hall1980_EncodingDecoding.pdf) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
 
-
 ---
 
-## Friday, September 14
-**Sections**
-
-<span class="tag is-warning">Quiz</span>
-
----
-
-## Tuesday, September 18
-**Modernity & Postmodernity (Late Modernity?)**
-
-Reading Due:
+## Thursday, September 20
+**Modernity & Postmodernity**
 
 * Barthes, Roland. (1967⁄1977). [“Death of the Author.”](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/barthes1977_DeathOfTheAuthor.pdf) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
 
 * Foucault, Michel. (1969⁄1998). [“What is an Author?”](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/foucault1969_WhatIsAnAuthor.pdf) in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
-
-
----
-
-## Thursday, September 20
-**“Authorship” and Post-Modernity**
-
-Re-Read: (Seriously, re-read! These are difficult texts)
-
-* Barthes, Roland. (1967⁄1977). “Death of the Author.” in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
-
-* Foucault, Michel. (1967⁄1998). “What is an Author?” in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
-
 
 ---
 
@@ -127,8 +119,6 @@ Re-Read: (Seriously, re-read! These are difficult texts)
 **Sections**
 
 <span class="tag is-warning">Quiz</span>
-
-<span class="tag is-success">Paper #1 Due</span>
 
 ---
 
@@ -139,6 +129,7 @@ Reading Due:
 
 * _Practices of Looking_, Chapter 3 (pp. 89 – 113)
 
+<span class="tag is-success">Paper #1 Due</span> - **Before 5:00 PM**: Send Word document by email to your instructor and TA
 
 ---
 

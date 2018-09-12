@@ -72,7 +72,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
     _*No late papers will be accepted.*_
 
     * _**Paper #1 (10%):**_ -- 4 pages in length   
-        Due in sections on Friday, September 21
+        Due @ **5:00 PM on Tuesday, September 25**
         
         The first paper is a critical visual and spatial analysis of the [“People Get Ready” exhibition](https://nasher.duke.edu/exhibitions/people-get-ready-building-a-contemporary-collection/) at the Nasher.
 
