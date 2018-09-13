@@ -55,7 +55,7 @@ Reading Due:
 **Sections:**   
 _“People Get Ready,” The Nasher Museum of Art_
 
-<span class="tag is-success">Important</span>   
+<span class="tag is-info">Important</span>   
 Meet at the Nasher Museum of Art at your assigned discussion section time. Your TAs and [Dr. Julia McHugh](https://today.duke.edu/2018/06/new-carmichael-curator-julia-mchugh-home-museum-ancient-americas-art), Trent A. Carmichael Curator of Academic Initiatives at the Nasher, will meet you for a tour of the [“People Get Ready” exhibition](https://nasher.duke.edu/exhibitions/people-get-ready-building-a-contemporary-collection/). Your first paper assignment will build on this experience.
 
 All visitors must leave any bags/purses in the lockers by the lecture hall (to the right of the wall painting. **The lockers require a quarter that will be returned.** Locker users should take the key with them and leave it in the locker's keyhole when they are done.
@@ -197,7 +197,12 @@ Reading Due:
 
 <span class="tag is-light">No Quiz!</span>
 
-Start reading Adorno & Horkheimer. It’s a difficult essay!
+<span class="tag is-info">Important</span>   
+Meet at the [Rubenstein Library in classroom 150](../reqs/rubenstein150.pdf) at your assigned discussion section time.  Reference archivist Joshua Larkin Rowley will introduce you to the [Hartman Center for Sales, Advertising, and Marketing History](https://library.duke.edu/rubenstein/hartman) and how you can make use of its archive as a research resource for your second paper.  Arrive early!
+
+Like the Nasher, the Rubenstein Library has [some rules for the class session](../reqs/rubenstein150.pdf).
+
+Finally, start reading Adorno & Horkheimer. It’s a difficult essay!
 
 ---
 
