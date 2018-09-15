@@ -1,5 +1,5 @@
 ---
-title: 'What Do Photographs Do?  Studium and Punctum'
+title: 'What Do Photographs Do?  Studium and Punctum<br />'
 date: "2018-09-06"
 outputs: "Reveal"
 
