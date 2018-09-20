@@ -107,7 +107,7 @@ Reading Due:
 ---
 
 ## Thursday, September 20
-**Modernity & Postmodernity**
+**The Politics of Authorship**
 
 * Barthes, Roland. (1967⁄1977). [“Death of the Author.”](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/barthes1977_DeathOfTheAuthor.pdf) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
 

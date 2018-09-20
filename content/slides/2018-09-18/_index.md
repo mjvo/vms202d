@@ -9,6 +9,12 @@ reveal_hugo:
     theme: white
 ---
 
+<small>Hurricane Florence<br />The Duke Painted Bridge Springs a Leak!</small>
+<img src="leak.jpg" width="35%" style="margin-top:-20px;border:none; float:right;" />
+
+
+---
+
 # Viewers Make Meaning, Part 2
 ## Ideology and <br />Encoding / Decoding
 
@@ -27,9 +33,14 @@ Ideology as the _naturalization of the contingent._
 
 # Ideology:
 
-{{% fragment %}} * As the _naturalization of the contingent._ (Barthes) {{% /fragment %}}
+{{% fragment %}} * As the _naturalization of the contingent._ (Barthes)<br /><br /> {{% /fragment %}}
 
-{{% fragment %}} * As false consciousness (Marx)<br /><br /> {{% /fragment %}}
+{{% fragment %}} * As _propaganda_. {{% /fragment %}}
+
+<br />
+
+{{% fragment %}} * As _false consciousness_ (Marx) {{% /fragment %}}
+
 
 --- 
 
@@ -71,4 +82,69 @@ Louis Althusser (1970)<br />“Ideology and Ideological State Apparatuses”
 ## Stuart Hall
 
 ---
+
+## Stuart Hall
+
+For Stuart Hall, the process of communication involves the articulation of linked but distinctive moments:
+
+* production
+* circulation
+* distribution/consumption
+* reproduction
+
+---
+
+![Shannon & Weaver Model of Communication](shannon_weaver_model.jpg)
+
+<small>Shannon & Weaver, 1948<br />“A Mathematical Theory of Communication”<br />_Bell System Technical Journal_</small>
+
+{{% note %}}
+* Sender (Information source) – Sender is the person who makes the message, chooses the channel and sends the message.
+* Encoder (Transmitter) –Encoder is the sender who uses machine, which converts message into signals or binary data. It might also directly refer to the machine.
+* Channel –Channel is the medium used to send message.
+* Decoder (Receiver) – Decoder is the machine used to convert signals or binary data into message or the receiver who translates the message from signals.
+* Receiver (Destination) –Receiver is the person who gets the message or the place where the message must reach. The receiver provides feedback according to the message. 
+* Noise –Noise is the physical disturbances like environment, people, etc. which does not let the message get to the receiver as what is sent. 
+{{% /note %}}
+
+---
+
+### Reproduction?
+
+>“Once accomplished, the discourse must then be translated– transformed, again – into social practices if the circuit is to be both completed and effective. If no “meaning” is taken, there can be no “consumption”. If the meaning is not articulated in practice, it has no effect.” (Althusser)
+
+---
+
+<img src="encoding_decoding.png" alt="encoding decoding diagram" width="80%" style="border:none;" /><br />
+<small>Hall's Visualization of Encoding / Decoding of Broadcast Media</small>
+
+---
+
+### Different "Decoding Positions"
+
+1. **Dominant / Hegemonic**:  The "Preferred Reading" or interpretation.
+
+2. **Negotiated**:  A Negotiated Reading   
+    Accepting some of preferred reading, rejecting or ignoring other parts
+
+3. **Oppositional / Counter-Hegemonic**:   
+    A “Globally Contrary” or Oppositional Reading
+
+---
+
+## Hegemony
+
+Stuart Hall adopts this term from Italian philosopher Antonio Gramsci
+
+---
+
+### Hegemony
+
+* Dominant ideologies offered and experienced as _"common sense"_
+
+* Dominant ideologies are locked in struggle with other "counter-hegemonic" forces so their dominance is never guaranteed.
+
+---
+
+
 
