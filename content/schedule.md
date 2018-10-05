@@ -187,7 +187,7 @@ Reading Due:
 
 Reading Due:
 
-* Walter Benjamin, 1936. “The Work of Art in the Age of Its Technological Reproducibility (Second Version).” in _The Work of Art in the Age of Its Technological Reproducibility and Other Writings on Media_. Cambridge, MA: Harvard University Press, 2008. pp. 19-55.
+* Walter Benjamin, 1939. “[The Work of Art in the Age of Its Technological Reproducibility (Third Version).](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/Benjamin1939Work_of_Art.pdf)” in _Selected Writings, Volume 4:  1938-1940_. Edmund Jephcott (trans.).   Cambridge, MA: Harvard University Press, 2003. pp. 251-283.
 
 
 ---
