@@ -211,7 +211,7 @@ Finally, start reading Adorno & Horkheimer. It’s a difficult essay!
 
 Reading Due:
 
-* Theodor Adorno and Max Horkheimer, 1946. “The Culture Industry: Enlightenment as Mass Deception“
+* Theodor Adorno and Max Horkheimer, 1946. “[The Culture Industry: Enlightenment as Mass Deception](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/horkheimeradorno1946.pdf)“
 
 
 ---
