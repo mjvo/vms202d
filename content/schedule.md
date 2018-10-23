@@ -250,7 +250,7 @@ Reading Due:
 
 Read: 
 
-* Jean Baudrillard, “Simulacra and Simulations“
+* Baudrillard, Jean. (1983/1988). [“Simulacra and Simulations“](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/baudrillard1983_1988.pdf) in Poster, M. (Ed.).  _Jean Baudrillard: Selected Writings._  Stanford, CA:  Stanford University Press.  pp. 166-184.
 
 ---
 
