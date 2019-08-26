@@ -27,6 +27,20 @@ class: title
 ## Welcome and Introductions
 
 ---
+class: img-left
+![Textbook Cover](pol_cover.jpg)
+# Textbook
+
+_Practices of Looking:   
+An Introduction to Visual Culture_   
+(3rd Edition, 2017)
+
+Authors:   
+Marita Sturken and Lisa Cartwright
+
+**Also on reserve at Duke Libraries**
+
+---
 class: img-right-full
 ![Image of Cogs](cog.jpg)
 # Course Mechanics
@@ -35,18 +49,10 @@ class: img-right-full
 
 class: img-left-full
 ![Image of Cogs](cog.jpg)
-# Course Mechanics
+# Course Website
 
-* ## Course Website
-https://mjvo.github.io/vms202d   
+https://mjvo.github.io/vms202d
 
----
-class: img-left
-![Textbook Cover](pol_cover.jpg)
-# Course Mechanics
-
-* ## Textbook
-_Practices of Looking_<br />(3rd Edition) 
    
 ---
 
@@ -58,7 +64,7 @@ background-image: url(visual_culture.png)
 
 ---
 
-{{< youtube VYOjWnS4cMY >}}
+<iframe width="90%" height="90%" src="https://www.youtube.com/embed/kbMqWXnpXcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
