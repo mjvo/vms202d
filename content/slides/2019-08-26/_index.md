@@ -27,7 +27,7 @@ class: title
 ## Welcome and Introductions
 
 ---
-class: img-left
+class: img-right
 ![Textbook Cover](pol_cover.jpg)
 # Textbook
 
@@ -56,8 +56,15 @@ https://mjvo.github.io/vms202d
    
 ---
 
-**Culture**
-: *"the shared practices of a group, com­munity, or society, through which meaning is made out of the visual, aural, and textual world of representations."*
+## Culture
+
+--
+
+* "the best that has been thought and said"
+
+--
+
+* "the shared practices of a group, com­munity, or society, through which meaning is made out of the visual, aural, and textual world of representations."
 
 ---
 background-image: url(visual_culture.png)
@@ -67,8 +74,20 @@ background-image: url(visual_culture.png)
 <iframe width="90%" height="90%" src="https://www.youtube.com/embed/kbMqWXnpXcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+class: img-left
 
-## For Thursday
+## Everything Is Love
+
+![APESH*T Album Cover Art](apeshit_album_cover.jpg)
+
+
+### The Carters
+
+(June 2018)
+
+---
+
+## For Wednesday
 
 Read:
 : *Practices of Looking*, Chapter 1 (pp. 1 - 29)
