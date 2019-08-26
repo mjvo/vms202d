@@ -79,7 +79,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
 
     _*No late papers will be accepted.*_
 
-    * _**Paper #1 (33%):**_ -- 4 pages in length   
+    * _**Paper #1 (32%):**_ -- 4 pages in length   
         Due in sections on Friday, September 20
         
         The first paper will focus on a visual artefact in the archives of the [Hartman Center for Sales, Advertising & Marketing History](https://library.duke.edu/rubenstein/hartman) at the [David M. Rubenstein Library](https://library.duke.edu/rubenstein/).  Your goal with this paper is to conduct a close-reading of the artefact, using key concepts from semiotics, the study of signs.  You will identify your artefact during the September 6 visit to the Hartman Center.
@@ -87,7 +87,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
 
     ---
 
-    * _**Paper #2 (34% of Paper Grade):**_ -- 5 pages in length   
+    * _**Paper #2 (36% of Paper Grade):**_ -- 5 pages in length   
         Due in sections on Friday, November 8.
         
         The second paper will focus on a corporate collection in the archives of the [Hartman Center for Sales, Advertising & Marketing History](https://library.duke.edu/rubenstein/hartman) at the [David M. Rubenstein Library](https://library.duke.edu/rubenstein/).  In this paper, you will apply key concepts from Walter Benjamin and the Frankfurt School to interpret and critique the archive.  You will identify your archive by conducting research in the Hartman Center collection following our October 11 visit.
@@ -95,7 +95,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
 
     ---
 
-    * _**Paper #3 (33% of Paper Grade):**_ -- 4 pages in length   
+    * _**Paper #3 (32% of Paper Grade):**_ -- 4 pages in length   
         Due in sections on Friday, November 22.
         
         The third paper is a critical visual and spatial analysis of the [“Art for a New Understanding” exhibition](https://nasher.duke.edu/exhibitions/art-for-a-new-understanding-native-voices-1950-to-now/) at the Nasher.
@@ -115,7 +115,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
 5. **Final Exam**
 
     _25% of course grade_   
-    **December 15, 7 - 10 PM**
+    **December 12, 2:00 - 5:00 PM**
 
     The final exam will focus on content from the second half of the course (October 9 →). Additionally, the exam will include _at least two_ **comprehensive** questions that will span content from the entire course.
     
