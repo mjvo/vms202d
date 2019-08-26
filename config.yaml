@@ -21,13 +21,17 @@ outputFormats:
     baseName: index
     mediaType: text/html
     isHTML: true
-
+  Remark:
+    baseName: index
+    mediaType: text/html
+    isHTML: true
+  
 params:
   course:
     name: "Introduction to Visual Culture"
     dept_url: "https://aahvs.duke.edu"
     dept_logo: "/images/AAHVS_Barcode_Logo.png"
-    day_time: "Tuesdays & Thursdays, 1:25 - 2:40 PM"
+    day_time: "Mondays & Wednesdays, 10:05 - 11:20 AM"
     location: "A266 Smith Warehouse, Bay 10"
     hero_img: "/images/graffiti_art.jpg"
     hero_img_credit: "Image: <a href=\"https://www.flickr.com/photos/freefoto/15836467154\">Graffiti Art</a> by <a href=\"https://www.flickr.com/photos/freefoto/\">Ian Britton</a>, 2015"
@@ -42,5 +46,3 @@ params:
     max_scale: 1
 
     highlight_theme: "atom-one-dark"
-    menu:
-      open_button: false

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ or .Page.Title .Site.Title }}</title>
+    {{ with $.Param "description" }}<meta name="description" content="{{ . }}">{{ end }}
+    {{ with .Site.Author.name }}<meta name="author" content="{{ . }}">{{ end }}
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    {{ hugo.Generator }}
+    <!-- Theme used for presentation -->
+    {{ block "layout" . }}{{ end }}
+    <!-- Theme used for syntax highlighting of code -->
+    {{- $highlight_theme := $.Param "reveal_hugo.highlight_theme" | default "default" -}}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ $highlight_theme }}.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    {{ if or (in .Site.Params.classes "feature-math") (in .Params.classes "feature-math") -}}
+    {{- if not (or (in .Site.Params.classes "feature-nomath") (in .Params.classes "feature-nomath") ) -}}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.9.0/dist/katex.min.css" integrity="sha384-TEMocfGvRuD1rIAacqrknm5BQZ7W7uWitoih+jMNFXQIbNl16bO8OZmylH/Vi/Ei" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.9.0/dist/katex.min.js" integrity="sha384-jmxIlussZWB7qCuB+PgKG1uLjjxbVVIayPJwi6cG6Zb4YKq0JIw+OMnkkEC7kYCq" crossorigin="anonymous"></script>
+  <script src="{{ "remark/js/auto-render.min.js" | relURL }}"></script> <!-- for KaTeX -->
+    {{- end -}}
+  {{- end -}}
+    <script src="{{ "remark/js/auto-render.min.js" | relURL }}"></script> <!-- for KaTeX -->
+    <script src="{{ "remark/js/story.js" | relURL }}"></script>
+  </head>
+  <body class=" {{ with .Section }}section-{{ . }}{{ end }} page-kind-{{ .Kind }} is-page-{{ .IsPage }} {{ with .Site.Params.classes }}{{ range . }} {{ . }}{{ end }}{{ end }}{{ with .Params.classes }}{{ range . }} {{ . }}{{ end }}{{ end }}">
+    <main role="main">
+      {{ block "main" . }}
+      {{ end }}
+      </main>
+  </body>
+</html>
