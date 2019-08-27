@@ -60,11 +60,11 @@ https://mjvo.github.io/vms202d
 
 --
 
-* "the best that has been thought and said"
+* Culture as Distinction (Hierarchies & Power)<br />"the best that has been thought and said"| High culture vs pop culture vs low culture, etc
 
 --
 
-* "the shared practices of a group, com­munity, or society, through which meaning is made out of the visual, aural, and textual world of representations."
+* Anthropological View of Culture<br />"the shared practices of a group, com­munity, or society, through which meaning is made out of the visual, aural, and textual world of representations."
 
 ---
 background-image: url(visual_culture.png)

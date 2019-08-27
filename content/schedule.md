@@ -17,7 +17,7 @@ Schedule subject to change at instructor’s discretion.
 
 Reading Due:
 
-* _Practices of Looking_, Introduction and Chapter 1 (pp. 1 - 29)
+* _Practices of Looking_, Introduction and Chapter 1 (pp. 1 - 29).  [PDF](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/POL-intro_chapter1.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ Reading Due:
 
 * Anderson, S. (2016, August 11). [“Fractured Lands: How the Arab World Came Apart.”](https://www.nytimes.com/interactive/2016/08/11/magazine/isis-middle-east-arab-spring-fractured-lands.html) _The New York Times_.   
 
-* Selection from Barthes, Roland. (1981/1993). [_Camera Lucida: Reflections on Photography_](#).  (Richard Howard, trans.).  London:  Vintage Books.
+* Selection from Barthes, Roland. (1981/1993). [_Camera Lucida: Reflections on Photography_](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/barthes1981_Camera_Lucida_selection.pdf).  (Richard Howard, trans.).  London:  Vintage Books.
     
     Note: Come prepared to discuss one particular passage from the Barthes text and one image from the NYT article that you found compelling.
 
@@ -81,7 +81,7 @@ Reading Due:
 
 * _Practices of Looking_, Chapter 2 (pp. 74 – 88)
 
-* Stuart Hall, [“Encoding / Decoding”](#) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
+* Stuart Hall, [“Encoding / Decoding”](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/hall1980_EncodingDecoding.pdf) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
 
 ---
 
@@ -97,9 +97,9 @@ Reading Due:
 
 Reading Due:
 
-* Barthes, Roland. (1967⁄1977). [“Death of the Author.”](#) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
+* Barthes, Roland. (1967⁄1977). [“Death of the Author.”](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/barthes1977_DeathOfTheAuthor.pdf) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
 
-* Foucault, Michel. (1969⁄1998). [“What is an Author?”](#) in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
+* Foucault, Michel. (1969⁄1998). [“What is an Author?”](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/foucault1969_WhatIsAnAuthor.pdf) in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
 
 ---
 
@@ -184,7 +184,7 @@ Reading Due:
 
 Reading Due:
 
-* Walter Benjamin, 1939. “[The Work of Art in the Age of Its Technological Reproducibility (Third Version).](#)” in _Selected Writings, Volume 4:  1938-1940_. Edmund Jephcott (trans.).   Cambridge, MA: Harvard University Press, 2003. pp. 251-283.
+* Walter Benjamin, 1939. “[The Work of Art in the Age of Its Technological Reproducibility (Third Version).](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/Benjamin1939Work_of_Art.pdf)” in _Selected Writings, Volume 4:  1938-1940_. Edmund Jephcott (trans.).   Cambridge, MA: Harvard University Press, 2003. pp. 251-283.
 
 
 ---
@@ -207,7 +207,7 @@ And start reading Adorno & Horkheimer now. It’s a difficult essay!
 
 Reading Due:
 
-* Theodor Adorno and Max Horkheimer, 1946. “[The Culture Industry: Enlightenment as Mass Deception](#)“
+* Theodor Adorno and Max Horkheimer, 1946. “[The Culture Industry: Enlightenment as Mass Deception](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/horkheimeradorno1946.pdf)“
 
 
 ---
@@ -246,7 +246,7 @@ Reading Due:
 
 Read: 
 
-* Baudrillard, Jean. (1983/1988). [“Simulacra and Simulations“](https://sakai.duke.edu/access/content/group/92bbffe6-ff60-4b9a-ae73-54bc03cfe622/Readings/baudrillard1983_1988.pdf) in Poster, M. (Ed.).  _Jean Baudrillard: Selected Writings._  Stanford, CA:  Stanford University Press.  pp. 166-184.
+* Baudrillard, Jean. (1983/1988). [“Simulacra and Simulations“](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/baudrillard1983_1988.pdf) in Poster, M. (Ed.).  _Jean Baudrillard: Selected Writings._  Stanford, CA:  Stanford University Press.  pp. 166-184.
 
 ---
 
