@@ -84,6 +84,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
         
         The first paper will focus on a visual artefact in the archives of the [Hartman Center for Sales, Advertising & Marketing History](https://library.duke.edu/rubenstein/hartman) at the [David M. Rubenstein Library](https://library.duke.edu/rubenstein/).  Your goal with this paper is to conduct a close-reading of the artefact, using key concepts from semiotics, the study of signs.  You will identify your artefact during the September 6 visit to the Hartman Center.
 
+        [Paper #1 Full Requirements](../reqs/VMS202D_Paper1_Fall2019.pdf)
 
     ---
 
