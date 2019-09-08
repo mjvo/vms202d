@@ -221,6 +221,7 @@ class: title
 background-image: url(kundel_nodine2.png)
 
 ---
+class: title 
 
 ## Viewing Context
 
