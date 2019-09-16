@@ -32,6 +32,8 @@ class: compact
     > Paper #1: Semiotic Analysis of a Virginia Slims Ad<br>
     > September 20, 2019
 
+1. Include your image!
+
 1. Number your pages!
 
 1. Name your Word document in this way:  `lastName_firstName_paper1.docx`
