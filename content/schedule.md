@@ -108,7 +108,9 @@ Reading Due:
 
 Reading Due:
 
-* TBD
+* Selection from Karl Marx's [early writings on "estranged labor"](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/marx-EstrangedLabour.pdf)
+* Graeber, David. (2013).  "[On the Phenomenon of Bullshit Jobs: A Work Rant.](http://www.strike.coop/bullshit-jobs/)" _Strike! Magazine_, Issue 3 "The Summer of	&hellip;" [[PDF]](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/graeber2013.pdf)
+
 
 ---
 

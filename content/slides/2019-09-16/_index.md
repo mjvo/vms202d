@@ -32,13 +32,13 @@ class: compact
     > Paper #1: Semiotic Analysis of a Virginia Slims Ad<br>
     > September 20, 2019
 
+1. When defining key terms, use *both* direct quotation from the textbook (with proper citation) **and** explication in your own words.
+
 1. Include your image!
 
 1. Number your pages!
 
 1. Name your Word document in this way:  `lastName_firstName_paper1.docx`
-
-1. When defining key terms, use *both* direct quotation from the textbook (with proper citation) **and** explication in your own words.
 
 1. Email your Word document to <span style="text-decoration: underline;">both</span> your professor and TA no later than the <span style="text-decoration: underline;">beginning</span> of your discussion section on Friday.
 
@@ -109,6 +109,7 @@ background-image: url(foucault_wordcloud.jpg)
 
 ### Foucault's Response to / Critique of Barthes
 >“It is not enough . . . to repeat the empty affirmation that the author has disappeared. . .   Instead, we must locate the space left empty by the author's disappearance, follow the distribution of gaps and breaches, and watch for the openings its disappearance uncovers.”
+
 > &mdash; <cite>Foucault, "What Is An Author?" (209)</cite>
 
 ---
@@ -119,11 +120,24 @@ class: title
 ---
 
 # Author Function: _Four Characteristics_
+--
 
 1. Linked to the **juridical** and **institutional** system that encompasses, determines, and articulates the universe of discourses.<br><br>
+--
+
 1. Does not affect all discourses in the same way at all times and in all types of civilizations<br><br>
+--
+
 1. Defined by _specific and complex operations_.<br><br>
+--
+
 1. It does not refer simply to a real individual, since it can give rise simultaneously to different selves, to several subjects – _positions_ that can be occupied by different classes of individuals.
 
 ---
 
+# For Wednesday
+
+Read:
+
+* Selection from Karl Marx's [early writings on "estranged labor"](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/marx-EstrangedLabour.pdf)<br><br>
+* Graeber, David. (2013).  "[On the Phenomenon of Bullshit Jobs: A Work Rant.](http://www.strike.coop/bullshit-jobs/)" _Strike! Magazine_, Issue 3 "The Summer of	&hellip;"
