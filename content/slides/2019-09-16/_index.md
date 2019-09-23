@@ -134,7 +134,69 @@ class: title
 1. It does not refer simply to a real individual, since it can give rise simultaneously to different selves, to several subjects – _positions_ that can be occupied by different classes of individuals.
 
 ---
+class: roomy, col-3
 
+# Juridical and Institutional System
+
+![Copyright](All-Rights-Reserved-1024x640.jpg)
+
+
+<span style="margin-left:30%;"></span>![Duke Crest](https://upload.wikimedia.org/wikipedia/en/b/b6/Duke_University_Crest.svg) 
+
+![Duke Logo](https://upload.wikimedia.org/wikipedia/commons/e/e6/Duke_University_logo.svg)
+
+---
+class: center
+
+...does not affect all discourses in the same way.
+
+![graffiti](red-mirror-f303VzauP6w-unsplash.jpg# l-0 t-20pct w-50pct h-80pct ofv absolute)
+![](twitter-mobile-app-ss-1920.jpg# w-50pct h-40pct t-20pct r-0 ofv absolute)
+![](ahmet-yalcinkaya-aNrRsB2wLDk-unsplash.jpg# w-50pct h-40pct t-60pct r-0 ofv absolute)
+
+---
+class: img-right-full
+
+# The Author's Name
+
+![Picasso Signature](picasso.jpg)
+
+serves “a classificatory function. Such a name permits one to group together a certain number of texts, define them, differentiate them from and contrast them to others.”
+
+---
+
+class: fullbleed
+
+![Picasso's Dora Maar](picassos-dora-maar.jpg# ofv w-2-12th h-6-12th t-0 absolute)
+![Picasso's Guernice](guernica.jpg# ofv w-10-12th h-6-12th t-0 l-2-12th absolute)
+![Picasso's Woman with a Flower](woman-with-a-flower.jpg# ofv w-3-12th h-6-12th t-6-12th l-0 absolute)
+![Picasso's Night Fishing at Antibes](night-fishing-at-antibes.jpg# w-6-12th h-6-12th l-3-12th t-6-12th ofv absolute)
+![Picasso's Three Musicians](three-musicians.jpg# w-3-12th h-6-12th t-6-12th l-9-12th ofv absolute)
+
+---
+class: roomy
+
+The <q>author-function</q> is the result of a <q>complex operation</q> that <q>constructs a certain being of reason we call ‘author.’</q>
+
+_The author can neutralize contradictions across different texts._
+
+---
+class: fullbleed
+
+![Early Picasso](early_picasso1.jpg# ofv absolute l-0 t-0 w-6-12th h-6-12th)
+![Early Picasso](early_picasso2.jpg# ofv absolute l-6-12th t-0 w-6-12th h-100pct)
+![Early Picasso](early_picasso3.jpg# ofv absolute l-0 t-6-12th w-3-12th h-6-12th)
+![Early Picasso](early_picasso4.jpg# ofv absolute l-3-12th t-6-12th w-3-12th h-8-12th)
+
+
+---
+class: roomy
+
+<br><br><br>
+> In short, it is a matter of depriving the subject . . . of its role as originator, and of analyzing the subject as a variable and complex function of discourse.
+
+><cite>&mdash; Michel Foucault</cite>
+---
 # For Wednesday
 
 Read:
