@@ -1,6 +1,6 @@
 ---
 title: "Gender and the Gaze"
-date: "2019-09-23"
+date: "2019-09-30"
 outputs: "Remark"
 
 cover_img: "tim-mossholder-UcUROHSJfRA-unsplash.jpg" # same dir as slideshow
