@@ -260,22 +260,20 @@ Read:
 ---
 
 ## Monday, October 28
-**Media in Everyday Life, Part 1**
+**Brand Culture: The Images and Spaces of Consumption, Part 1**
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 6 (pp. 219-234)
-
+* _Practices of Looking_, Chapter 7 (pp. 257-278)
 
 ---
 
 ## Wednesday, October 30
-**Media in Everyday Life, Part 2**
+**Brand Culture: The Images and Spaces of Communication, Part 2**
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 6 (pp. 234-256)
-
+* _Practices of Looking_, Chapter 7 (pp. 278-299)
 
 ---
 
@@ -287,21 +285,22 @@ Reading Due:
 ---
 
 ## Monday, November 4
-**Brand Culture: The Images and Spaces of Consumptio, Part 1**
+**Media in Everyday Life, Part 1**
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 7 (pp. 257-278)
+* _Practices of Looking_, Chapter 6 (pp. 219-234)
+
 
 
 ---
 
 ## Wednesday, November 6
-**Brand Culture: The Images and Spaces of Communication, Part 2**
+**Media in Everyday Life, Part 2**
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 7 (pp. 278-299)
+* _Practices of Looking_, Chapter 6 (pp. 234-256)
 
 
 ---
