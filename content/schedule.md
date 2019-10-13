@@ -205,7 +205,7 @@ And start reading Adorno & Horkheimer now. It’s a difficult essay!
 ---
 
 ## Monday, October 14
-**Critical Theory and the Frankfurt School**
+**The Culture Industry: Critical Theory and the Frankfurt School**
 
 Reading Due:
 
