@@ -116,7 +116,7 @@ Technological reproducibility:
 * <q>changes the relationship of the masses to art</q> (p. 264)<br><br>
 
     * <q>reception in distraction</q> (p. 269):  <q>the distracted masses absorb the work of art into themselves</q>
-
+    
     * The power of habit &mdash; training ground for new perceptions
 
 ???
