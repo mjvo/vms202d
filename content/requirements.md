@@ -102,6 +102,8 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
         
         The third paper is a critical visual and spatial analysis of the [“Art for a New Understanding” exhibition](https://nasher.duke.edu/exhibitions/art-for-a-new-understanding-native-voices-1950-to-now/) at the Nasher.
 
+        [Paper #3 Requirements](../reqs/VMS202D_Paper3_Fall2019.pdf)
+
     ---
 
 4. **Midterm Exam**
