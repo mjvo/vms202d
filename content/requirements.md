@@ -94,13 +94,13 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to S
         The second paper will focus on a corporate collection in the archives of the [Hartman Center for Sales, Advertising & Marketing History](https://library.duke.edu/rubenstein/hartman) at the [David M. Rubenstein Library](https://library.duke.edu/rubenstein/).  In this paper, you will apply key concepts from Walter Benjamin and the Frankfurt School to interpret and critique the archive.  You will identify your archive by conducting research in the Hartman Center collection following our October 11 visit.
 
         [Paper #2 Requirements](../reqs/VMS202D_Paper2_Fall2019.pdf)
+
     ---
 
     * _**Paper #3 (32% of Paper Grade):**_ -- 4 pages in length   
         Due in sections on Friday, November 22.
         
         The third paper is a critical visual and spatial analysis of the [“Art for a New Understanding” exhibition](https://nasher.duke.edu/exhibitions/art-for-a-new-understanding-native-voices-1950-to-now/) at the Nasher.
-
 
     ---
 
