@@ -409,11 +409,8 @@ Reading Due:
 ---
 
 ## Wednesday, December 4
-**Theme TBD**
+**Course Reflection / Refraction**
 
-Readings Due:
-
-* TBD
 
 ---
 
