@@ -13,10 +13,16 @@ We will consider how conscious and unconscious desires elicit particular respons
 
 The tools of the discipline of Visual Culture offer techniques for understanding collective visual practices that can help make meaning of the world we live in.
 
-Learning Objectives:
+## Learning Objectives:
 
 * an understanding of the discipline of visual culture/visual studies, it’s basic vocabulary and methods, and its interdisciplinary nature
 * an ability to recognize different visual media and their technical underpinnings and effects
 * an ability to recognize historical, political, social and cultural contexts of visual media and their ideological underpinnings and effects
 * an understanding of how vision, visuality and representation relate to social and political power, identity, and difference
 * an ability to critically analyze images using the methods and concepts of visual studies, and to communicate this analysis through written, oral and visual presentation
+
+
+**Required Textbook:**   
+Sturken, Marita and Lisa Cartwright. *[Practices of Looking: An Introduction to Visual Culture](https://www-worldcat-org.proxy.lib.duke.edu/title/practices-of-looking-an-introduction-to-visual-culture/oclc/1006728878)*, 3rd Edition (2017), ISBN-13: 978-0190265717
+
+Note: Other readings will be [posted to Sakai](https://sakai.duke.edu/x/JAMgvY) and are linked on the [schedule](./schedule) page of this website.
