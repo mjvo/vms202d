@@ -7,9 +7,9 @@ menu: main
 
 The following textbook is required:
 
-* Sturken, Marita & Cartwright, Lisa. (2017). _Practices of Looking: An Introduction to Visual Culture._ (3rd Edition.) Oxford & New York: Oxford University Press. ISBN-13: 978-0190265717
+* Sturken, Marita & Cartwright, Lisa. (2017). _[Practices of Looking: An Introduction to Visual Culture.]((https://www-worldcat-org.proxy.lib.duke.edu/title/practices-of-looking-an-introduction-to-visual-culture/oclc/1006728878))_ (3rd Edition.) Oxford & New York: Oxford University Press. ISBN-13: 978-0190265717
 
-Additional readings are linked from the <a href="../schedule/">schedule</a> to Sakai.
+Additional readings are linked from the <a href="../schedule/">schedule</a> to our [Sakai Resources](https://sakai.duke.edu/x/JAMgvY) page.
 
 ---
 

@@ -25,7 +25,7 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(nathan-anderson-99542-unsplash.jpg)
 
 # VMS 202D
-### Introduction to Visual Culture<br />August 23, 2021
+### What is Visual Culture?<br />August 23, 2021
 
 ---
 class: title
@@ -107,6 +107,9 @@ class: img-left
 
 ## For Wednesday
 
+Post:
+* Introduce yourself on our class' [Teams Space](https://teams.microsoft.com/l/team/19%3a6-2QSAJflR4U-QevaoFNs_34nUtJ_KN_3CeuA8tgOE01%40thread.tacv2/conversations?groupId=37de6a67-85dc-43de-9b53-0aa6c915eb1c&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c) and share an artifact of visual culture of recent interest.
 
 Read:
-: *Practices of Looking*, Chapter 1 (pp. 1 - 29)
+* *Practices of Looking*, Chapter 1 (pp. 1 - 29)   
+[PDF on Sakai if you've not yet purchased the book]
