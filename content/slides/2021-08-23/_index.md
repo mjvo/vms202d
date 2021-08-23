@@ -1,6 +1,6 @@
 ---
 title: 'Introduction / Course Overview'
-date: "2019-08-26"
+date: "2021-08-23"
 outputs: "Remark"
 
 cover_img: "nathan-anderson-99542-unsplash.jpg" # same dir as slideshow
@@ -19,7 +19,7 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(nathan-anderson-99542-unsplash.jpg)
 
 # VMS 202D
-### Introduction to Visual Culture<br />August 28, 2018
+### Introduction to Visual Culture<br />August 23, 2021
 
 ---
 class: title
@@ -38,8 +38,6 @@ An Introduction to Visual Culture_
 Authors:   
 Marita Sturken and Lisa Cartwright
 
-**Also on reserve at Duke Libraries**
-
 ---
 class: img-right-full
 ![Image of Cogs](cog.jpg)
@@ -53,7 +51,14 @@ class: img-left-full
 
 https://mjvo.github.io/vms202d
 
-   
+
+---
+# What does it mean to study visual culture?
+
+> "Visual culture is concerned with visual events in which information, meaning or pleasure is sought by the consumer in an interface with visual technology.  By visual technology I mean any form of apparatus designed to be looked at or to enhance natural vision, from oil painting to television and the internet."
+
+> &mdash; Nicholas Mirzoeff, *[An Introduction to Visual Culture](https://www.google.com/books/edition/An_Introduction_to_Visual_Culture/hhajBE0mUfwC?hl=en)*, p. 3
+
 ---
 
 ## Culture
@@ -71,7 +76,7 @@ background-image: url(visual_culture.png)
 
 ---
 
-<iframe width="90%" height="90%" src="https://www.youtube.com/embed/kbMqWXnpXcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="90%" src="https://www.youtube-nocookie.com/embed/kbMqWXnpXcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 class: img-left
@@ -88,6 +93,7 @@ class: img-left
 ---
 
 ## For Wednesday
+
 
 Read:
 : *Practices of Looking*, Chapter 1 (pp. 1 - 29)
