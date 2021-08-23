@@ -29,7 +29,7 @@ params:
     day_time: "Mondays & Wednesdays, 10:15 - 11:30 AM"
     location: "Auditorium, Nasher Museum of Art"
     discussion_sections:
-      days_times:  "Fridays, "
+      days_times:  "001: Fridays, 10:15-11:05 AM<br />002: Fridays, 11:15 AM - 12:05 PM"
       location: "A290 Smith Warehouse, Bay 9"
     hero_img: "https://unsplash.com/photos/Q8m8cLkryeo/download?force=true&w=1920"
     hero_img_credit: 'Photo by <a href="https://unsplash.com/@edwinhooper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edwin Hooper</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'

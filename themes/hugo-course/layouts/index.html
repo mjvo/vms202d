@@ -13,10 +13,16 @@
           {{- .Site.Params.course.day_time}}<br />
           {{ .Site.Params.course.location }}
         </p>
-        <p class="has-text-white" style="padding-top:2rem;">
-          {{- .Site.Params.course.discussion_sections.days_times }}<br />
-          {{ .Site.Params.course.discussion_sections.location }}
+        {{ if isset .Site.Params.course "discussion_sections" }}
+        <p class="has-text-white" style="padding-top:2rem;"><em>Discussion Sections:</em><br />
+          {{ with .Site.Params.course.discussion_sections.days_times }}
+          {{- . | safeHTML }}<br />
+          {{ end }}
+          {{ with .Site.Params.course.discussion_sections.location }}
+          {{- . }}
+          {{ end }}
         </p>
+        {{ end }}
       </div>
     </div>
   </div>
