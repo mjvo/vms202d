@@ -12,15 +12,10 @@ MetaDataFormat: "yaml"
 
 theme: 
   - "hugo-course"
-  - "reveal-hugo"
 
 FootnoteReturnLinkContents: "↩"
 
 outputFormats:
-  Reveal:
-    baseName: index
-    mediaType: text/html
-    isHTML: true
   Remark:
     baseName: index
     mediaType: text/html
@@ -31,18 +26,10 @@ params:
     name: "Introduction to Visual Culture"
     dept_url: "https://aahvs.duke.edu"
     dept_logo: "/images/AAHVS_Barcode_Logo.png"
-    day_time: "Mondays & Wednesdays, 10:05 - 11:20 AM"
-    location: "A266 Smith Warehouse, Bay 10"
-    hero_img: "/images/graffiti_art.jpg"
-    hero_img_credit: "Image: <a href=\"https://www.flickr.com/photos/freefoto/15836467154\">Graffiti Art</a> by <a href=\"https://www.flickr.com/photos/freefoto/\">Ian Britton</a>, 2015"
-
-  reveal_hugo:
-    theme: white
-    
-    width: 960
-    height: 540
-    margin: 0.1
-    min_scale: .1
-    max_scale: 1
-
-    highlight_theme: "atom-one-dark"
+    day_time: "Mondays & Wednesdays, 10:15 - 11:30 AM"
+    location: "Auditorium, Nasher Museum of Art"
+    discussion_sections:
+      days_times:  "Fridays, "
+      location: "A290 Smith Warehouse, Bay 9"
+    hero_img: "https://unsplash.com/photos/Q8m8cLkryeo/download?force=true&w=1920"
+    hero_img_credit: 'Photo by <a href="https://unsplash.com/@edwinhooper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Edwin Hooper</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
