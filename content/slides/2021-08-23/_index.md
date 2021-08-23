@@ -15,6 +15,12 @@ themes:
 highlight_style: "atom-one-dark"
 
 ---
+class: title, top, fullbleed, color-white, no-footer
+background-image: url(nathan-anderson-99542-unsplash.jpg)
+
+# Welcome to VMS 202D
+
+---
 class: title, smokescreen, shelf, no-footer
 background-image: url(nathan-anderson-99542-unsplash.jpg)
 
@@ -53,9 +59,11 @@ https://mjvo.github.io/vms202d
 
 
 ---
+class: roomy 
+
 # What does it mean to study visual culture?
 
-> "Visual culture is concerned with visual events in which information, meaning or pleasure is sought by the consumer in an interface with visual technology.  By visual technology I mean any form of apparatus designed to be looked at or to enhance natural vision, from oil painting to television and the internet."
+> "Visual culture is concerned with visual events in which **information**, **meaning** or **pleasure** is sought by the **consumer** in an **interface with visual technology**.  By visual technology I mean any form of **apparatus** designed to be looked at or to enhance natural vision, from oil painting to television and the internet."
 
 > &mdash; Nicholas Mirzoeff, *[An Introduction to Visual Culture](https://www.google.com/books/edition/An_Introduction_to_Visual_Culture/hhajBE0mUfwC?hl=en)*, p. 3
 
@@ -73,6 +81,11 @@ https://mjvo.github.io/vms202d
 
 ---
 background-image: url(visual_culture.png)
+
+---
+class: title, fogscreen
+
+# The study of visual culture centers the visual (visual objects, ways of looking, visuality) as a way of understanding history &amp;    practices of meaning-making.
 
 ---
 
