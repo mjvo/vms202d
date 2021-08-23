@@ -17,7 +17,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 
 1. **Attendance**
 
-    **Attendance is mandatory at all lectures and discussion sections.** Please familiarize yourself with Duke’s policies on [Class Attendance and Missed Work](https://trinity.duke.edu/undergraduate/academic-policies/class-attendance-and-missed-work). If you need to miss class for a valid reason, please notify your professor and TA <span style="text-decoration: underline">in advance</span>.
+    **Attendance is mandatory at all lectures and discussion sections.** Please familiarize yourself with Duke’s policies on [Class Attendance and Missed Work](https://trinity.duke.edu/undergraduate/academic-policies/class-attendance-and-missed-work). We understand that you may have unexpected events or needs arise that conflict with our scheduled class sessions. If you need to miss class for a valid reason, please notify your professor and TA <span style="text-decoration: underline">in advance</span> so that we can coordinate your catching-up on lectures, discussions, and assignments.
 
     <div class="notification is-danger"><strong>More than 2 unexcused absences will result in an overall grade reduction of <span style="text-decoration: underline">1/3 of a letter grade for each subsequent absence</span>.</strong></div>
     
@@ -27,13 +27,13 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 
     Mobile phones should be turned off and either stowed in your bookbag or placed screen-down on your desk for the duration of class.
     
-    Laptop computers and tablets may be used in the classroom for _**note-taking purposes only**_.
+    Mobile phones, laptop computers and tablets may be used in the classroom for _**note-taking**_ and for _**participating in class Teams chats**_ only.
 
     ---
 
 1. **Discussion and Debate**
 
-    Hopefully this class will inspire lively discussion and rigorous debate. Above all, be respectful of each other and open to different viewpoints. If there are class dynamics that are hindering your full participation in the course, please discuss these with your instructor immediately and confidentially.
+    Hopefully this class will inspire lively discussion and rigorous debate. Above all, be respectful of each other and open to different viewpoints. If there are class dynamics that are hindering your full participation in the course, *please discuss these with your instructor immediately and confidentially*.
 
     ---
 
@@ -42,6 +42,14 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
     We all learn differently, and I and your TAs will do our best to make sure that there are multiple means of accessing and demonstrating knowledge. We welcome your input on things we can do to make the course materials, our lessons, and the classroom experience more inclusive. If there is an accommodation that could improve your experience in this class, please let me know, or contact SDAO at (919) 668-1267 to ensure that your accommodations can be implemented in a timely fashion. 
     
     For accessibility software and other information, check out the Disability Management System site: https://access.duke.edu
+
+    ---
+
+1. **Testing Center**   
+
+   This class will use the [Testing Center](https://testingcenter.duke.edu) to provide testing accommodations and temporary test-taking supports to undergraduates registered with and approved by the Student Disability Access Office (SDAO) and/or Academic Resource Center (ARC). The Testing Center operates by appointment only and appointments must be made at least 7 consecutive days in advance, but please schedule your appointments as far in advance as possible. You will not be able to make an appointment until you have submitted a Semester Request with the SDAO or completed screening at the ARC and your accommodations or supports have been approved. If you have not already done so, promptly submit a Semester Request to the SDAO or schedule your screening with the ARC in order to make your appointment in time. For instructions on how to register with SDAO, visit their website at https://access.duke.edu/requests. For instructions on how to schedule a screening with the ARC, visit their website at https://arc.duke.edu/ld-adhd/overview. 
+   
+   For instructions on how to make an appointment at the Testing Center, visit their website at https://testingcenter.duke.edu.  
 
     ---
 
@@ -64,62 +72,34 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 2. **Quizzes**
 
     _20% of course grade_   
-    There will be nine (9) short (10-minute) quizzes in discussion sections throughout the semetser. _The lowest quiz grade will discarded._
+    There will be nine (9) short (10-minute) quizzes posted to Sakai throughout the semetser. _The lowest quiz grade will discarded._
     
     Quizzes will focus on material covered in the assigned readings for the week as well as key terms drawn from the extensive Glossary at the back of the textbook.
 
     --- 
 
-3. **Papers**
+3. **Blog Posts**
 
     _25% of course grade_
 
-    <span class="tag is-success">Important</span>   
-    In order to standardize length, all papers must be in 12-point, “Times” font with line spacing set at 1.5 and all margins at 1″.
-
-    _*No late papers will be accepted.*_
-
-    * _**Paper #1 (32%):**_ -- 4 pages in length   
-        Due in sections on Friday, September 20
-        
-        The first paper will focus on a visual artefact in the archives of the [Hartman Center for Sales, Advertising & Marketing History](https://library.duke.edu/rubenstein/hartman) at the [David M. Rubenstein Library](https://library.duke.edu/rubenstein/).  Your goal with this paper is to conduct a close-reading of the artefact, using key concepts from semiotics, the study of signs.  You will identify your artefact during the September 6 visit to the Hartman Center.
-
-        [Paper #1 Requirements](../reqs/VMS202D_Paper1_Fall2019.pdf)
-
-    ---
-
-    * _**Paper #2 (36% of Paper Grade):**_ -- 5 pages in length   
-        Due in sections on Friday, November 8.
-        
-        The second paper will focus on a corporate collection in the archives of the [Hartman Center for Sales, Advertising & Marketing History](https://library.duke.edu/rubenstein/hartman) at the [David M. Rubenstein Library](https://library.duke.edu/rubenstein/).  In this paper, you will apply key concepts from Walter Benjamin and the Frankfurt School to interpret and critique the archive.  You will identify your archive by conducting research in the Hartman Center collection following our October 11 visit.
-
-        [Paper #2 Requirements](../reqs/VMS202D_Paper2_Fall2019.pdf)
-
-    ---
-
-    * _**Paper #3 (32% of Paper Grade):**_ -- 4 pages in length   
-        Due in sections on Friday, November 22.
-        
-        The third paper is a critical visual and spatial analysis of the [“Art for a New Understanding” exhibition](https://nasher.duke.edu/exhibitions/art-for-a-new-understanding-native-voices-1950-to-now/) at the Nasher.
-
-        [Paper #3 Requirements](../reqs/VMS202D_Paper3_Fall2019.pdf)
+    In lieu of longer papers, you will compose three (3) themed, scholarly blog posts over the course of the semester.  Each of these will ask you to find, create, or address specific visual media and discuss them in response to specific prompts and questions.  These are short, concise, and image-rich writing assignments, approx. 600-800 words.
 
     ---
 
 4. **Midterm Exam**
 
     _20% of course grade_   
-    **In sections on Friday, October 4**
+    **In sections on Friday, October 8**
 
-    The midterm exam will cover material from the first half of the course (August 26 → October 2).
+    The midterm exam will cover material from the first half of the course (August 23 → approx. October 6).
 
     ---
 
 5. **Final Exam**
 
     _25% of course grade_   
-    **December 12, 2:00 - 5:00 PM**
+    **December 8, 9:00 AM - 12:00 PM**
 
-    The final exam will focus on content from the second half of the course (October 9 →). Additionally, the exam will include _at least two_ **comprehensive** questions that will span content from the entire course.
+    The final exam will consiste of short answer and essay questions that focus on content from the second half of the course (approx. October 11 →). Additionally, the exam will include _at least two_ **comprehensive** questions that will span content from the entire course.
     
 ---
