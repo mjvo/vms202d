@@ -39,7 +39,9 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 
 1. **Student Disability Access Office (SDAO)**   
 
-    We all learn differently, and I and your TAs will do our best to make sure that there are multiple means of accessing and demonstrating knowledge. We welcome your input on things we can do to make the course materials, our lessons, and the classroom experience more inclusive. If there is an accommodation that could improve your experience in this class, please let me know, or contact SDAO at (919) 668-1267 to ensure that your accommodations can be implemented in a timely fashion. 
+    We all learn differently, and I and your TAs will do our best to make sure that there are multiple means of accessing and demonstrating knowledge. We welcome your input on things we can do to make the course materials, our lessons, and the classroom experience more inclusive. If there is an accommodation that could improve your experience in my class, please let us know, regardless of the status of your documentation. 
+    
+    For formal accommodations, or if you have questions about getting a disability diagnosis, contact the director of Student Accessibility Services, Cort Schneider (cort.schneider@duke.edu), or call the office at (919) 668-1267.
     
     For accessibility software and other information, check out the Disability Management System site: https://access.duke.edu
 
