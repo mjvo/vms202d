@@ -33,7 +33,7 @@ Before class:
 
 * Review lecture notes and Chapter 1, pp 1 - 28.
 * Watch:
-    * [A short documentary (6') about the theft of a renowned painting by the German artist Ulay](https://www.youtube.com/watch?v=i2E0J6J3KGI)
+    * [Ulay Interview: How I Stole a Painting](https://www.youtube.com/watch?v=i2E0J6J3KGI)
     * [Photographing Secret Sites and Satellites | Meet Trevor Paglen](https://youtu.be/9Igfu0VwdkQ)
 
 ---
