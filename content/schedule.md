@@ -32,4 +32,17 @@ Reading Due:
 Before class:
 
 * Review lecture notes and Chapter 1, pp 1 - 28.
-* Watch [Photographing Secret Sites and Satellites | Meet Trevor Paglen](https://youtu.be/9Igfu0VwdkQ)
+* Watch:
+    * [A short documentary (6') about the theft of a renowned painting by the German artist Ulay](https://www.youtube.com/watch?v=i2E0J6J3KGI)
+    * [Photographing Secret Sites and Satellites | Meet Trevor Paglen](https://youtu.be/9Igfu0VwdkQ)
+
+---
+
+## Monday, August 30
+**Images, Power, and Politics, Part 2**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 1 (pp. 29 - 49)
+
+---
