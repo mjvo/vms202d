@@ -299,6 +299,9 @@ Like this image of my dog?
 
 ## For next class:
 
-* Read:  Selections from Barthes' <span style="text-decoration:underline">Camera Lucida</span> and the assigned NYT article
+* Read:  
+    * Selections from Barthes' <span style="text-decoration:underline">Camera Lucida</span>
+    * Ungemah, L.D. (2016, May 27).  "[The Rare Experience of Punctum](https://arthistoryteachingresources.org/2016/05/the-rare-experience-of-punctum/)" 
+    * _Practices of Looking_, Chapter 2 (pp. 51 – 74)
 
-* As you encounter the images in the assigned NYT article, note images that engage your understanding of Barthes' concepts of _studium_ and _punctum_. 
+* As you reflect on the images you've encountered over your lifetime, note images that engage your understanding of Barthes' concepts of _studium_ and _punctum_. 
