@@ -300,8 +300,8 @@ Like this image of my dog?
 ## For next class:
 
 * Read:  
-    * Selections from Barthes' <span style="text-decoration:underline">Camera Lucida</span>
-    * Ungemah, L.D. (2016, May 27).  "[The Rare Experience of Punctum](https://arthistoryteachingresources.org/2016/05/the-rare-experience-of-punctum/)" 
+
+    * Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  
+
     * _Practices of Looking_, Chapter 2 (pp. 51 – 74)
 
-* As you reflect on the images you've encountered over your lifetime, note images that engage your understanding of Barthes' concepts of _studium_ and _punctum_. 
