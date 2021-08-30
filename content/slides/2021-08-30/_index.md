@@ -301,7 +301,7 @@ Like this image of my dog?
 
 * Read:  
 
-    * Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  
+    * Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  [PDF version](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/Art%2C%20Power%2C%20and%20Profit%20at%20Duke%20University.pdf)
 
     * _Practices of Looking_, Chapter 2 (pp. 51 – 74)
 

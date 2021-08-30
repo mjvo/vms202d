@@ -52,7 +52,7 @@ Reading Due:
 
 Reading Due:
 
-    * Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  
+    * Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  [PDF Version](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/Art%2C%20Power%2C%20and%20Profit%20at%20Duke%20University.pdf)
 
     * _Practices of Looking_, Chapter 2 (pp. 51 – 74)
 
@@ -72,7 +72,7 @@ Reading Due:
 
 * _Practices of Looking_, Chapter 2 (pp. 74 – 88)
 
-* Stuart Hall, [“Encoding / Decoding”](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/hall1980_EncodingDecoding.pdf) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
+* Stuart Hall, [“Encoding / Decoding”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/hall1980_EncodingDecoding.pdf) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
 
 ---
 
