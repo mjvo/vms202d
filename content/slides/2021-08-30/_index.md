@@ -1,6 +1,6 @@
 ---
 title: 'Images, Power, and Politics, Part 2'
-date: "2019-09-02"
+date: "2021-08-30"
 outputs: "Remark"
 
 cover_img: "austin-chan-ukzHlkoz1IE-unsplash.jpg" # same dir as slideshow
@@ -19,18 +19,31 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(austin-chan-ukzHlkoz1IE-unsplash.jpg)
 
 # Images, Power, &amp; Politics
-### Part 2<br />September 2, 2019
+### Part 2<br />August 30, 2021
 
 ---
+class: roomy
+# Looking and Power
 
+* The "right to look"
+* Visibility: Power may be negotiated by making things visible
+    * "Shining a light on injustice" 
+    * Recognition and democracy
+* Invisibility
+    * Eluding surveillance
+* Images themselves have power (to persuade, to inspire, to injure)
+
+---
+class: roomy
 # Keywords Review
 
-* Culture<br><br>
+* Culture
 * Representation
-    * Mimesis
-    * Construction<br><br>
-* Intertextuality<br><br>
-* Indeterminacy<br><br>
+    * Mimetic
+    * Constructed
+* Myth of Photographic Truth
+* Intertextuality
+* Indeterminacy
 * Polysemy
 
 ---
@@ -50,7 +63,11 @@ background-image: url(ballerinas.png)
 
 ---
 class: title
-background-image: url(protest.png)
+background-image: url(play_dc_fountain.jpg)
+
+???
+
+Micaela Montelara plays in the fountain at Georgetown Waterfront Park during a heatwave in Washington, D.C. on August 13, 2021. Brendan Smialowski / AFP / Getty
 
 ---
 class: roomy
@@ -126,20 +143,7 @@ class: center
 ![Wasp!](wasp.jpg)
 
 ---
-class: col-3
 
-# Tattoos and Semiotics
-
---
-![Tattoo of daughter](tattoo-daughter.jpg)
---
-
-![Skull Tattoo](back-tattoo_skull.jpg)
---
-
-![Holocaust Survivor](holocaust-tattoo.png)
-
----
 class: roomy 
 
 <br><br><br><br>
@@ -208,6 +212,15 @@ class: fit-h1
 * Instead, we use “dog” because of our <span style="color:red;">CONVENTIONS...</span> 
 
 ---
+
+# Adrian Piper, Catalysis III & IV (1971)
+
+![Adrian Piper, Catalysis III & IV (1971)](piper_catalysis3-4.jpg)
+
+Denotative vs Connotative Meaning (Barthes)
+
+---
+
 <br><br><br>
 Charles Sanders Peirce developed a schema for understanding the different ways a sign can relate to its referent, asking:
 
@@ -243,9 +256,20 @@ class: compact
 ![Degrees of Iconicity](iconicity.png)
 
 ---
-class: title
+class: col-2
 
-# [“Sad and Useless Things I Have Drawn”](https://www.sadanduseless.com/things-i-have-drawn/)
+# [“Things I Have Drawn (Instagram)”](https://www.instagram.com/thingsihavedrawn/)
+
+![https://www.instagram.com/p/CAQPVJnl_XS/](things_i_have_drawn1.jpg)
+
+--
+
+![https://www.instagram.com/p/CAQPVJnl_XS/](things_i_have_drawn2.jpg)
+
+
+
+
+
 
 ---
 class: col-2
@@ -253,20 +277,23 @@ class: col-2
 
 * _**HIGH**_ Degree of Motivation
 * A sign that is <span style="color:#00D100;">PHYSICALLY PRODUCED</span> by its referent.<br /><br />
-
 * Examples:
     * Smoke is an index of fire
     * Sneezing is an index of a cold
     * A fingerprint is an index of a thief
 
+![Tire Tracks](tire_tracks.jpg# w-80pct)
+
 ---
 class: img-right center
-# What about a photograph?   
+# What about a photograph?
 --
+class: img-left 
 
-![Portrait of Saussure](saussure.png)
+![Cricket](cricket.jpg)
 
-Like this image of Saussure?
+
+Like this image of my dog?
 
 ---
 
