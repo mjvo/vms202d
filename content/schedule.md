@@ -46,3 +46,33 @@ Reading Due:
 * _Practices of Looking_, Chapter 1 (pp. 29 - 49)
 
 ---
+
+## Wednesday, September 1
+**Viewers Make Meaning, Part 1**
+
+Reading Due:
+
+    * Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  
+
+    * _Practices of Looking_, Chapter 2 (pp. 51 – 74)
+
+---
+
+## Friday, September 3
+**Sections:**   
+
+<span class="tag is-warning">Complete Quiz #1 by 11:59 PM</span>
+
+---
+
+## Monday, September 6
+**Viewers Make Meaning, Part 2: Ideology and Encoding / Decoding**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 2 (pp. 74 – 88)
+
+* Stuart Hall, [“Encoding / Decoding”](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/hall1980_EncodingDecoding.pdf) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
+
+---
+
