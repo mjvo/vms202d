@@ -1,6 +1,6 @@
 ---
 title: "Viewers Make Meaning, Part 1"
-date: "2019-09-09"
+date: "2021-09-01"
 outputs: "Remark"
 
 cover_img: "warhol_heinz.png" # same dir as slideshow
@@ -15,28 +15,73 @@ themes:
 highlight_style: "atom-one-dark"
 
 ---
-class: title, smokescreen
-background-image: url(sharpiegate.jpg)
 
+class: title
 
-# #sharpiegate
+# Discuss:<br />“Art, Power, and Profit at Duke University”
 
 ---
 
-background-image: url(sharpiegate.jpg)
+class: roomy
 
+# Review
+
+* Studium vs. Punctum
+
+--
+
+* Semiotics
+
+---
+
+class: title
+background-image: url(saussure_peirce.png)
 
 ---
 class: title
-
-## [https://twitter.com/hashtag/TrumpSharpie](https://twitter.com/hashtag/TrumpSharpie)
+background-image: url(saussure_vs_peirce.png)
 
 ---
+class: img-left compact
+# Barthes' Contribution to Semiotics
+
+![Roland Barthes](barthes.png)
+* **Denotation**<br>
+--
+    The _literal_ meaning of a sign
+
+--
+* **Connotation**<br>
+--
+    Social, cultural, &amp; historical meanings that are "added" to denotation
+
+--
+* **Myth**<br>
+--
+    The hidden set of rules, codes, &amp; conventions through which meanings, which in reality are specific to certain groups, are _rendered universal and given for a whole society._  They are **naturalized**.
+
+---
+class: col-3
+# Semiotics Key Terms
+
+* Dyadic Structure of a Sign (Saussure)<br><br>
+    ![Signifier-Signified Dyad](dyad_sr_sd.png)<br><br><br>
+* Continuum of “Motivation” (Peirce)<br><br>
+    * Symbol<br><br>
+    * Icon<br><br>
+    * Index<br><br><br><br><br>
+* Levels of Signification (Barthes)<br><br>
+    * Denotation<br><br>
+    * Connotation<br><br>
+    * Myth
+
+---
+
 class: title, smokescreen, shelf, no-footer
 background-image: url(warhol_heinz.png)
 
 # Viewers Make Meaning
-### Part 1: Codes, Viewers, Contexts<br>September 9, 2019
+### Part 1: Codes, Viewers, Contexts<br>September 1, 2021
 
 ---
 
@@ -146,12 +191,14 @@ chickens
 ```
 
 ---
-class: img-left-full, right
+class: img-caption
 
-![Head Walk](head_walk.jpg)
+# Meme Culture
 
-# Patrice Letarnec
-## Head Walk (2014)
+![Land o' Lakes](land_o_lakes1.jpg)
+
+---
+![Land o' Lakes Meme](land_o_lakes2.jpg)
 
 ---
 # Paradigm
@@ -343,10 +390,15 @@ class: title
 background-image: url(koons_silver_bunny.png)
 
 ---
-# For Wednesday
+# For Friday:
+
+* Review your notes
+* Complete Quiz #1 on Sakai before 11:59 PM
+
+<hr />
+# For Monday:
 
 Read:
 
 * Practices of Looking, Chapter 2 (pp. 74 – 88)<br><br>
-
 * Stuart Hall, “Encoding / Decoding” (1980⁄2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks._ Malden, MA: Blackwell Publishing. pp. 163-173.
