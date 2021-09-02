@@ -61,6 +61,11 @@ Reading Due:
 ## Friday, September 3
 **Discussion Sections** 
 
+Reading Due:
+
+* Patterson, A. (2004). [Keywords: Raymond Williams and Others](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/patterson2004.pdf). _ESC: English Studies in Canada, 30_(4), 66–80. DOI: 10.1353/esc.2004.0066
+
+
 <span class="tag is-warning">Complete Quiz #1 by 11:59 PM</span>
 
 ---
