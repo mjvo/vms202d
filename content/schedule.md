@@ -88,9 +88,9 @@ Reading Due:
 
 Reading Due:
 
-* Barthes, Roland. (1967⁄1977). [“Death of the Author.”](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/barthes1977_DeathOfTheAuthor.pdf) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
+* Barthes, Roland. (1967 ⁄ 1977). [“Death of the Author.”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/barthes1977_DeathOfTheAuthor.pdf) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
 
-* Foucault, Michel. (1969⁄1998). [“What is an Author?”](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/foucault1969_WhatIsAnAuthor.pdf) in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
+* Foucault, Michel. (1969 ⁄ 1998). [“What is an Author?”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/foucault1969_WhatIsAnAuthor.pdf) in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
 
 ---
 
