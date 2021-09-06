@@ -15,6 +15,17 @@ themes:
 highlight_style: "atom-one-dark"
 
 ---
+class: img-right
+# Production of Meaning
+![](context.png)
+
+* Intrinsic to the Image<br><br>
+* Producer's Intention<br><br>
+* **Codes and Conventions**<br><br>
+* **Viewers and their Experiences**<br><br>
+* **Viewing Context**
+
+---
 class: title
 ## Viewer Experience
 
