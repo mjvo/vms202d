@@ -1,6 +1,6 @@
 ---
 title: "The Politics of Authorship, Part 1"
-date: "2019-09-16"
+date: "2021-09-08"
 outputs: "Remark"
 
 cover_img: "aaron-burden-y02jEX_B0O0-unsplash.jpg" # same dir as slideshow
@@ -20,27 +20,11 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(aaron-burden-y02jEX_B0O0-unsplash.jpg)
 
 # The Politics of Authorship
-### Part 1: Barthes v. Foucault<br>September 16, 2019
+### Part 1: Barthes v. Foucault<br>September 8, 2021
 
 ---
-class: compact 
-## Paper Advice
 
-1. Include your own name at the start of your paper, along with a title and date.
-
-    > Mark Olson<br>
-    > Paper #1: Semiotic Analysis of a Virginia Slims Ad<br>
-    > September 20, 2019
-
-1. When defining key terms, use *both* direct quotation from the textbook (with proper citation) **and** explication in your own words.
-
-1. Include your image!
-
-1. Number your pages!
-
-1. Name your Word document in this way:  `lastName_firstName_paper1.docx`
-
-1. Email your Word document to <span style="text-decoration: underline;">both</span> your professor and TA no later than the <span style="text-decoration: underline;">beginning</span> of your discussion section on Friday.
+![Foucault Meme](foucault_freeze_meme.png# ofv absolute l-4-12th t-0 w-4-12th)
 
 ---
 
@@ -55,8 +39,49 @@ class: compact
     A “Globally Contrary” or Oppositional Reading
 
 ---
+
+## Hegemonic / Hegemony
+
+Stuart Hall adopts this term from Italian philosopher Antonio Gramsci
+
+--
+
+* Dominant ideologies offered and experienced as _"common sense"_
+
+--
+
+* Dominant ideologies are locked in struggle with other "counter-hegemonic" forces so their dominance is never guaranteed.
+
+--
+
+* Culture as a "whole way of ~~life~~ struggle."
+
+---
+class: title
+
+# So what?
+
+--
+
+## and do you agree?
+
+---
+
+class: col-2 title
+
+![Barthes Writing](barthes_death_author.jpg)<br /><br />
+**"The Death of the Author"**<br />Roland Barthes, 1967
+
+![Michel Foucault](foucault_what_author.png# w-50pct)   
+**"What is an Author?"**<br />Michel Foucault, 1967
+
+---
 class: center
-![collage of artists and signatures](author_collage.png)<br><small>“The author is a modern figure, a product of our society insofar as . . . it discovered the prestige of the individual.” [Barthes, "The Death of the Author." (142)]</small>
+
+# Shared Assumption
+
+![collage of artists and signatures](author_collage.png# w-60pct)<br><small>“The author is a modern figure, a product of our society insofar as . . . it discovered the prestige of the individual . . . The _explanation_ of a work is always sought in the man or woman who produced it.” [Barthes, "The Death of the Author." (142-143)]</small>
+
 ---
 class: img-caption
 
@@ -64,24 +89,15 @@ class: img-caption
 **"The Death of the Author"**<br>Roland Barthes, 1967
 
 ---
-class: img-right-full
 
-![Michel Foucault](foucault_what_author.png)
-<br><br><br><br><br><br>
-**"What is an Author?"**<br>
-Michel Foucault, 1967
+# Barthes' critique of originality
 
----
+>"**The text** [image? artwork?] **is a tissue of quotations drawn from the innumerable centres of culture . . . the writer** [artist? marketing exec? influencer?] **can only imitate a gesture that is always anterior, never original.  His** [sic] **only power is to mix writings** [signs?], **to counter the ones with the others.**"
 
-class: roomy 
-# Discuss:
-
-* Main point(s)<br><br>
-* What is at stake?<br><br>
-* Examples in support of Barthes? of Foucault?
-
+><cite>&mdash; Barthes, "The Death of the Author." (146)</cite>
 ---
 class: roomy
+
 >“To give a text an Author is to impose a limit on that text, to furnish it with a final signified, to close the writing. Such a conception suits criticism very well, the latter then allotting itself the important task of discovering the Author (or its hypostases: society, history, psyche, liberty) beneath the work: when the Author has been found, the text is 'explained' &ndash; victory to the critic.”
 
 ><cite>&mdash; Barthes, "The Death of the Author." (147)</cite>
@@ -99,11 +115,27 @@ class: img-right-full
 
 ---
 class: title
-### What kinds of discourse do we attribute to an <span style="text-decoration:underline;">A</span>uthor?
+
+# Polysemy and the "readerly" image
 
 ---
+class: img-right-full
+
+![Michel Foucault](foucault_what_author.png)
+<br><br><br><br><br><br>
+**"What is an Author?"**<br>
+Michel Foucault, 1967
+
+---
+class: roomy, center
+
+> "The author is therefore the ideological figure by which one marks the manner in which we fear the proliferation of meaning."
+
+><cite>&mdash; Foucault, "What is an Author?" (222)</cite>
+---
+
 class: title
-background-image: url(foucault_wordcloud.jpg)
+### What kinds of discourse do we attribute to an <span style="text-decoration:underline;">A</span>uthor?
 
 ---
 
@@ -161,7 +193,7 @@ class: img-right-full
 
 ![Picasso Signature](picasso.jpg)
 
-serves “a classificatory function. Such a name permits one to group together a certain number of texts, define them, differentiate them from and contrast them to others.”
+serves “a classificatory function. Such a name permits one to group together a certain number of texts, define them, differentiate them from and contrast them to others.” (Foucault, 210)
 
 ---
 
@@ -190,16 +222,31 @@ class: fullbleed
 
 
 ---
+class: img-caption
+
+![Foucault Discursive](foucault_wordcloud.jpg)
+<small>Certain Authors as "founders of discursivity" (217):<br />Plato, Freud, Marx . . .</small>
+
+--
+<small>and Foucault!</small>
+
+---
 class: roomy
 
 <br><br><br>
 > In short, it is a matter of depriving the subject . . . of its role as originator, and of analyzing the subject as a variable and complex function of discourse.
 
-><cite>&mdash; Michel Foucault</cite>
+><cite>&mdash; Foucault, "What is an Author?" (221)</cite>
 ---
-# For Wednesday
+# For Friday
+
+* Review Foucault &amp; Barthes
+* Complete Quiz #2 before 11:59 PM
+<hr />
+
+# For Monday
 
 Read:
 
-* Selection from Karl Marx's [early writings on "estranged labor"](https://sakai.duke.edu/access/content/group/4fbd6c02-a04b-4b1c-b29f-83e350cfb29c/Readings/marx-EstrangedLabour.pdf)<br><br>
-* Graeber, David. (2013).  "[On the Phenomenon of Bullshit Jobs: A Work Rant.](http://www.strike.coop/bullshit-jobs/)" _Strike! Magazine_, Issue 3 "The Summer of	&hellip;"
+* Abreu, Manual Arturo.  (2016).  “[Online Imagined Black English](https://arachne.cc/issues/01/online-imagined_manuel-arturo-abreu.html).”   _Arachne_, Issue #1.   
+* Parham, Jason (2020, August 4). “[TikTok and the Evolution of Digital Blackface](https://www.wired.com/story/tiktok-evolution-digital-blackface/).” _Wired_.
