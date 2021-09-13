@@ -192,7 +192,7 @@ Reading Due:
 ## Friday, October 8
 **Discussion Sections**
 
-<span class="tag is-danger">Complete Quiz #4 by 11:59 PM</span>Midterm Exam</span>
+<span class="tag is-danger">Midterm Exam</span>
 
 ---
 
