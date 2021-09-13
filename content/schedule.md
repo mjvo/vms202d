@@ -119,8 +119,8 @@ Reading Due:
 
 * _Practices of Looking_, Chapter 3 (pp. 89 – 113)
 
-
 Assignment:  "Visuality Time Capsule 2021" Blog Post
+
 ---
 
 ## Friday, September 17
