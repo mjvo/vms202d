@@ -110,13 +110,17 @@ Reading Due:
 * Parham, Jason (2020, August 4). “[TikTok and the Evolution of Digital Blackface](https://www.wired.com/story/tiktok-evolution-digital-blackface/).” _Wired_.
 
 
-
-
 ---
 
 ## Wednesday, September 15
+**Modernity: Spectatorship, the Gaze, and Power, Part 1**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 3 (pp. 89 – 113)
 
 
+Assignment:  "Visuality Time Capsule 2021" Blog Post
 ---
 
 ## Friday, September 17
@@ -127,26 +131,44 @@ Reading Due:
 --- 
 
 ## Monday, September 20
+**Modernity: Spectatorship, the Gaze, and Power, Part 2**
 
+Reading Due:
+
+* _Practices of Looking_, Chapter 3 (pp. 113 – 138)
 
 ---
 
 ## Wednesday, September 22
+The Colonial Gaze and the Right to Look
+
+* Mirzoeff, N. (2011).  "[Introduction: The Right to Look, or, How to Think Within and Against Visuality](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/mirzoeff2011_chapter1.pdf)" in _The Right to Look._  Durham:  Duke University Press.  pp. 1 - 30.
 
 ---
 
 ## Friday, September 24
 **Discussion Sections**
 
-Time Capsule Blog Post?
+Due:  "Visuality Time Capsule 2021" Blog Post
 
 --- 
 
 ## Monday, September 27
+**Realism and Perspective: From Renaissance Painting to Digital Media, Part 1**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 4 (pp. 139-158)
+
 
 ---
 
 ## Wednesday, September 29
+**Realism and Perspective: From Renaissance Painting to Digital Media, Part 2**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 4 (pp. 158-177)
 
 ---
 
@@ -163,13 +185,14 @@ Time Capsule Blog Post?
 ---
 
 ## Wednesday, October 6
+**Midterm Exam Review** 
 
 ---
 
 ## Friday, October 8
 **Discussion Sections**
 
-MIDTERM EXAM
+<span class="tag is-danger">Complete Quiz #4 by 11:59 PM</span>Midterm Exam</span>
 
 ---
 
@@ -262,7 +285,7 @@ Blog Post #2
 ## Friday, November 19
 **Discussion Sections**
 
-BLog #3
+Blog #3
 ---
 
 ## Monday, November 22
