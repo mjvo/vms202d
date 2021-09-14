@@ -284,6 +284,7 @@ Blog Post #2
 **Discussion Sections**
 
 Blog #3
+
 ---
 
 ## Monday, November 22
