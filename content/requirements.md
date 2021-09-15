@@ -86,6 +86,12 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 
     In lieu of longer papers, you will compose three (3) themed, scholarly blog posts over the course of the semester.  Each of these will ask you to find, create, or address specific visual media and discuss them in response to specific prompts and questions.  These are short, concise, and image-rich writing assignments, approx. 600-800 words.
 
+    * Blog Post 1: "[Visuality Time Capsule 2021](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog1_visual_time_capsule.pdf)" - Due September 24, 2021
+
+    * Blog Post 2:  Theme TBD - Due October 29, 2021
+
+    * Blog Post 3:  Theme TBD - Due November 19, 2021
+
     ---
 
 4. **Midterm Exam**

@@ -124,6 +124,8 @@ Reading Due:
 ## Friday, September 17
 **Discussion Sections**
 
+Bring preliminary set of visual artefacts for [Visual Culture Time Capsule blog post](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog1_visual_time_capsule.pdf).
+
 <span class="tag is-warning">Complete Quiz #3 by 11:59 PM</span>
 
 --- 
@@ -147,7 +149,7 @@ The Colonial Gaze and the Right to Look
 ## Friday, September 24
 **Discussion Sections**
 
-Due:  "Visuality Time Capsule 2021" Blog Post
+Due:  "[Visuality Time Capsule 2021](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog1_visual_time_capsule.pdf)" Blog Post
 
 --- 
 

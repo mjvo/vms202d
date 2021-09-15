@@ -232,7 +232,7 @@ background-image: url(surveillance_cams.png)
 
 # For Friday
 
-* Identify a set of visual artefacts as candidates for the class' "2021 Visual Culture Time Capsule" [preparatory work for Blog Post #1]
+* Identify a set of visual artefacts as candidates for the class' "2021 Visual Culture Time Capsule" [preparatory work for [Blog Post #1](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog1_visual_time_capsule.pdf)]
 * Complete Quiz #3
 
 <hr />
