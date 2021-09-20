@@ -224,9 +224,22 @@ cultural apparatus of discipline, a social technology geared toward disciplining
 Whereas monarchies and totalitarian political systems function through the overt exercise and display of punishment, such as public execution for the violation of laws, in modern societies power relations are structured to produce citizens who will actively participate in self-regulating behavior. 
 
 ---
-class: title
+class: col-2
 
+# Disciplinary power replaces older forms...
+
+* Bentham was a prison reformer, and in his context (England at the turn of the 18th century) confinement was replacing older forms of punishment like public execution
+* Significantly, these changes are related to Enlightenment ideas about individual subjects as people with souls that could be reformed
+
+![Execution of Charles I of England](The_Execution_of_Charles_I_of_England.jpg)<br /><small><caption>Anonymous Dutch painting of the execution of Charles I, 1649</caption></small>
+
+
+---
+class: title, fogscreen
 background-image: url(surveillance_cams.png)
+
+--
+# Disciplinary Society as Generalized Condition
 
 ---
 

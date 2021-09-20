@@ -1,6 +1,6 @@
 ---
 title: "Gender and the Gaze"
-date: "2019-09-30"
+date: "2021-09-20"
 outputs: "Remark"
 
 cover_img: "tim-mossholder-UcUROHSJfRA-unsplash.jpg" # same dir as slideshow
@@ -20,7 +20,7 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(tim-mossholder-UcUROHSJfRA-unsplash.jpg)
 
 # Gender and the Gaze
-## September 30, 2019
+## September 20, 2021
 
 ---
 
@@ -35,9 +35,26 @@ looking vs watching
 Women adopt the gaze of men - reflexive
 
 ---
+class: color-white, fit-h1
+background-image: url(psycho.jpg)
+
+# Laura Mulvey on the male gaze in Hollywood cinema
+
+--
+<br />
+<blockquote>
+<div style="background: rgba(0,0,0,0.4); color: white; padding: 20px;">
+"In a world ordered by sexual imbalance, pleasure in looking has been split between active/male and passive/female. The determining male gaze projects its phantasy on to the female form which is styled accordingly. In their traditional exhibitionist role women are simultaneously looked at and displayed, with their appearance coded for strong visual and erotic impact so that they can be said to connote to-be-looked-at-ness"<br /><br />
+&mdash; Laura Mulvey, "Visual Pleasure and Narrative Cinema" (1975: 11)</div></blockquote>
+
+
+---
 class: center
 <br>
 ![The surveyed female](check_self.png)
+
+???
+Internalization of surveillance
 
 ---
 class: center compact
@@ -132,7 +149,10 @@ class: title center
 ---
 class: center
 
-<iframe width="90%" height="90%" src="https://www.youtube.com/embed/fd-iOCnbi2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="90%" src="https://www.youtube-nocookie.com/embed/fd-iOCnbi2o?start=34&end=89" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+???
+genderqueer activist and Duke alum Jacob Tobia
 
 ---
 class: center
@@ -143,3 +163,12 @@ class: center
 class: center
 <br><br>
 # Sex<br><span style="font-size: 2em; font-weight: 200;">&#8742;</span><br>Gender<br><span style="font-size: 2em; font-weight: 200;">&#8742;</span><br>Desire
+
+---
+
+# For Wednesday:
+
+* Read:   
+Mirzoeff, N. (2011).  "[Introduction: The Right to Look, or, How to Think Within and Against Visuality](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/mirzoeff2011_chapter1.pdf)" in _The Right to Look._  Durham:  Duke University Press.  pp. 1 - 30.
+
+* Continue working on your blog posts &rarr; due Friday!
