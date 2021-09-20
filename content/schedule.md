@@ -197,11 +197,23 @@ Reading Due:
 ---
 
 ## Monday, October 11
+**The Work of Art in the Age of Mechanical Reproduction**
+
+Reading Due:
+
+* Walter Benjamin, 1939. “[The Work of Art in the Age of Its Technological Reproducibility (Third Version).](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/Benjamin1939Work_of_Art.pdf)” in _Selected Writings, Volume 4:  1938-1940_. Edmund Jephcott (trans.).   Cambridge, MA: Harvard University Press, 2003. pp. 251-283.
 
 
 ---
 
 ## Wednesday, October 13
+**Visual Technologies, Reproduction, and the Copy, Part 1**
+
+Reading/Viewing Due:
+
+* _Practices of Looking_, Chapter 5 (pp 179 – 198)
+
+* [Look Inside the World of Chinese ‘Copy Culture’](https://www.youtube.com/watch?v=ZbZDO5y43ZU) [00:25:37]
 
 
 --- 
@@ -214,10 +226,22 @@ Reading Due:
 ---
 
 ## Monday, October 18
+**The Culture Industry: Critical Theory and the Frankfurt School**
+
+Reading Due:
+
+* Theodor Adorno and Max Horkheimer, 1946. “[The Culture Industry: Enlightenment as Mass Deception](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/horkheimeradorno1946.pdf)“
+
 
 ---
 
 ## Wednesday, October 20
+**Visual Technologies, Reproduction, and the Copy, Part 2**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 5 (pp. 198-218)
+
 
 ---
 
@@ -229,10 +253,20 @@ Reading Due:
 ---
 
 ## Monday, October 25
+*Simulacra and Simulations**
+
+Read: 
+
+* Baudrillard, Jean. (1983/1988). “Simulacra and Simulations“ in Poster, M. (Ed.).  _Jean Baudrillard: Selected Writings._  Stanford, CA:  Stanford University Press.  pp. 166-184.
 
 ---
 
 ## Wednesday, October 27
+**Brand Culture: The Images and Spaces of Consumption, Part 1**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 7 (pp. 257-278)
 
 ---
 
@@ -244,10 +278,20 @@ Blog Post #2
 ---
 
 ## Monday, November 1
+**Brand Culture: The Images and Spaces of Communication, Part 2**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 7 (pp. 278-299)
 
 ---
 
 ## Wednesday, November 3
+**Media in Everyday Life, Part 1**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 6 (pp. 219-234)
 
 ---
 
@@ -259,11 +303,20 @@ Blog Post #2
 ---
 
 ## Monday, November 8
+**Media in Everyday Life, Part 2**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 6 (pp. 234-256)
 
 ---
 
 ## Wednesday, November 10
+**Postmodernism: Irony, Parody, and Pastiche**
 
+Reading Due:
+
+* _Practices of Looking_, Chapter 8 (pp. 301-336)
 
 --- 
 
@@ -275,10 +328,21 @@ Blog Post #2
 ---
 
 ## Monday, November 15
+**Scientific Looking, Looking at Science, Part 1**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 9 (pp 337-357)
 
 ---
 
 ## Wednesday, November 17
+**Scientific Looking, Looking at Science, Part 2**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 9 (pp 357-378)
+
 
 ---
 
@@ -290,6 +354,11 @@ Blog #3
 ---
 
 ## Monday, November 22
+**The Global Flow of Visual Culture, Part 1**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 10 (pp. 379-402)
 
 ---
 
@@ -304,10 +373,16 @@ Blog #3
 ---
 
 ## Monday, November 29
+**The Global Flow of Visual Culture, Part 2**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 10 (pp. 402-423)
 
 ---
 
 ## Wednesday, December 1
+**TBD** 
 
 ---
 
