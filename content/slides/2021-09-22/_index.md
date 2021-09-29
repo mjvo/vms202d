@@ -149,14 +149,17 @@ class: fit-h1, compact
 ---
 
 # Discussion: tactics of countervisuality today? 
+
 Mirzoeff discusses several historic forms of countervisuality, from representations of abolitionist heroes, to the 19th century realist paintings of peasant and working-class life, to photographic documentation of the conditions of poverty.
 
 In his words, "countervisuality proper is a claim for the right to look," which is also always a claim over the right to determine and make visible what is real, as well as a claim about history and what versions of history are valid. The right to look is a resistance to an authority that says _"this is what happened,"_ _"this is all there is,"_ or _"there is nothing to see here."_ 
 
 What forms of countervisuality or claims for the right to look do you see at work in the world today, or in the recent past?
 
---- 
+---
 
-# For next class:
+# For next class (September 29th)
 
-* Read
+Read: 
+
+* _Practices of Looking,_ Chapter 4 (pp. 139-177)
