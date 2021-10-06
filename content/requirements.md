@@ -99,7 +99,9 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
     _20% of course grade_   
     **In sections on Friday, October 8**
 
-    The midterm exam will cover material from the first half of the course (August 23 → approx. October 6).
+    The midterm exam will cover material from the first half of the course (August 23 &rarr; approx. October 6).
+
+    [Midterm Review Sheet](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/Midterm_Review.pdf)
 
     ---
 
