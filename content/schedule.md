@@ -215,7 +215,7 @@ Reading/Viewing Due:
 
 * _Practices of Looking_, Chapter 5 (pp 179 – 198)
 
-* [Look Inside the World of Chinese ‘Copy Culture’](https://www.youtube.com/watch?v=ZbZDO5y43ZU) [00:25:37]
+* [Living With Van Gogh:  A Look Inside the World of Chinese ‘Copy Culture’](https://www.youtube.com/watch?v=ZbZDO5y43ZU) [00:25:37]
 
 
 --- 
