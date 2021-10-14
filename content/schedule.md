@@ -275,7 +275,7 @@ Reading Due:
 ## Friday, October 29
 **Discussion Sections**
 
-Blog Post #2
+Due:  "[The Visuality of a Nasher Exhibit](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog2_nasher_exhibition.pdf)" (Blog Post #2)
 
 ---
 

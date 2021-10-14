@@ -88,7 +88,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 
     * Blog Post 1: "[Visuality Time Capsule 2021](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog1_visual_time_capsule.pdf)" - Due September 24, 2021
 
-    * Blog Post 2:  Theme TBD - Due October 29, 2021
+    * Blog Post 2:  "[The Visuality of a Nasher Exhibit](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog2_nasher_exhibition.pdf)" - Due October 29, 2021
 
     * Blog Post 3:  Theme TBD - Due November 19, 2021
 
