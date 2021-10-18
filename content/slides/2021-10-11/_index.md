@@ -15,8 +15,7 @@ themes:
 highlight_style: "atom-one-dark"
 
 ---
-
-class: title, smokescreen, no-footer,
+class: title, smokescreen, no-footer
 background-image: url(bank-phrom-Tzm3Oyu_6sk-unsplash.jpg)
 
 --
@@ -192,8 +191,6 @@ class: compact
 * On the other hand, the new media may also contain within themselves the potential for new, revolutionary uses: the politicization of art.
 
 > But as soon as the criterion of authenticity ceases to be applied to artistic production, the whole social function of art is revolution­ized. Instead of being founded on ritual, it is based on a different practice: politics. (256-257)
-
-
 
 ---
 # For Wednesday
