@@ -108,6 +108,15 @@ class: compact
 As of 2019, 90% of the United States's media is controlled by five media conglomerates: Comcast (via NBCUniversal), Disney, Viacom & CBS (both controlled by National Amusements), and AT&T (via WarnerMedia).
 
 ---
+class: img-full, fit-h1, center
+# Evan Shapiro - https://twitter.com/eshap/status/1289638100508053506
+
+![2020 MET Universe](media-universe-1.png# w-90pct)
+
+???
+
+
+---
 # Sameness
 
 * The culture industry makes mass culture <q>subserve the formula, which replaces the work.</q>  (p. 126)<br><br>
@@ -166,3 +175,14 @@ class: title
 ---
 class: center, no-footer
 <iframe width="98%" height="98%" src="https://www.youtube.com/embed/O7zZPqar34w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# For Wednesday
+
+Read: 
+
+* _Practices of Looking_, Chapter 5 (pp. 198-218)
+
+Rewatch:
+
+* [Living With Van Gogh:  A Look Inside the World of Chinese ‘Copy Culture’](https://www.youtube.com/watch?v=ZbZDO5y43ZU) [00:25:37]
