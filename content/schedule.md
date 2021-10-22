@@ -255,7 +255,7 @@ Reading Due:
 ---
 
 ## Monday, October 25
-*Simulacra and Simulations**
+**Simulacra and Simulations**
 
 Read: 
 
