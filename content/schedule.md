@@ -252,6 +252,8 @@ Reading Due:
 
 <span class="tag is-warning">Complete Quiz #6 by 11:59 PM</span>
 
+Read: 
+
 * Tate. (n.d.). [Institutional Critique – Art Term](https://www.tate.org.uk/art/art-terms/i/institutional-critique).
 * Buren, D. (1970/1985). "[Function of the Museum](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/buren1970.pdf)." In Hertz, R. (Ed.). _Theories of Contemporary Art._ (pp.189-192).  Englewood Cliffs, NJ: Prentice-Hall.
 * Piper, A. (1983/2009).  "[Some Thoughts on the Political Character of This Situation](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/piper1983.pdf)." In Alberro, A. & Stimson, B. (Eds.).  _Institutional Critique: An Anthology of Artists' Writings._  (pp. 242-243).  Cambridge, MA:  MIT Press.
