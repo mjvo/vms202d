@@ -59,7 +59,7 @@ Internalization of surveillance
 ---
 class: center compact
 
-<iframe width="85%" height="85%" src="https://www.youtube.com/embed/vGg_o3ttTFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="85%" height="85%" src="https://www.youtube-nocookie.com/embed/vGg_o3ttTFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <small>#OwnIt &mdash; Special K</small>
 
@@ -121,7 +121,7 @@ class: center
 
 ---
 class: center
-<iframe width="90%" height="90%" src="https://www.youtube.com/embed/owGykVbfgUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="90%" src="https://www.youtube-nocookie.com/embed/owGykVbfgUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ???
 Reversal of the subject-object dichotomy
@@ -139,7 +139,7 @@ class: img-right
 ---
 class: center
 
-<iframe width="90%" height="90%" src="https://www.youtube.com/embed/Bo7o2LYATDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="90%" src="https://www.youtube-nocookie.com/embed/Bo7o2LYATDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 class: title center
