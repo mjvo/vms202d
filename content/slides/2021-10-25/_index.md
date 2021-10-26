@@ -177,14 +177,15 @@ Your browser does not support the video tag.
 ???
 p. 167:  substituting signs of the real for the real itself; that is, an operation to deter every real process by its operational double, a metastable, programmatic, perfect descriptive machine which provides all the signs of the real and short-circuits all its vicissitudes.
 
----
-class: center, compact 
-<iframe width="85%" height="85%" src="https://www.youtube-nocookie.com/embed/Qr9quEB-Gsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+// commented out next 3 slides -- save for future use?
+// ---
+// class: center, compact 
+ <iframe width="85%" height="85%" src="https://www.youtube-nocookie.com/embed/Qr9quEB-Gsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <caption><small>Freedom's Safest Place | Demons At Our Door</caption></small>
 
----
-class: center, compact 
+//---
+//class: center, compact 
 <iframe width="85%" height="85%" src="https://www.youtube-nocookie.com/embed/2r9ofi_vG5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <caption><small>	Share the Safety</caption></small>
@@ -192,13 +193,13 @@ class: center, compact
 ???
 The YES Men
 
----
-class: center, compact 
+//---
+//class: center, compact 
 <iframe width="85%" height="85%" src="https://www.youtube-nocookie.com/embed/U-6dWsQMkDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <caption><small>Freedom's Safest Place | My Rights</caption></small>
 
----
+---  
 class: img-right-full
 
 ![Umberto Eco](umberto_eco.jpg)
@@ -264,22 +265,6 @@ class: fullbleed, no-footer, center
 ![Viva Las Venice](Venetian-Palazzo-Las-Vegas-review-546.jpg# w-70pct)
 
 Precession of Simulacra: Viva Las Vegas!
-
----
-class: fullbleed, no-footer, center
-
-![Hyperreal Models](models_without_original.png# w-80pct)
-
----
-# [The Diigitals](https://www.thediigitals.com)
-
-![The Digitals Homepage 2018](the_diigitals.png)
-
-???
-The world's first all digital modeling agency
-
-Hyperreal fashion models -- literally models without an original.   Available for "hire" and now also being sold as NFTs
-
 
 ---
 
