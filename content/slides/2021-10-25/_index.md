@@ -1,5 +1,5 @@
 ---
-title: "Simulacra and Simulations"
+title: "Simulacra and Simulations, Parts I &amp; II"
 date: "2021-10-25"
 outputs: "Remark"
 
@@ -19,7 +19,7 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(theo-crazzolara-klHuYR3Ds6E-unsplash.jpg)
 
 # Simulacra and Simulations
-## October 25, 2021
+## October 25 &amp; 27, 2021
 
 ---
 class: center
@@ -265,6 +265,21 @@ class: fullbleed, no-footer, center
 ![Viva Las Venice](Venetian-Palazzo-Las-Vegas-review-546.jpg# w-70pct)
 
 Precession of Simulacra: Viva Las Vegas!
+
+---
+class: fullbleed, no-footer, center
+
+![Hyperreal Models](models_without_original.png# w-80pct)
+
+---
+# [The Diigitals](https://www.thediigitals.com)
+
+![The Digitals Homepage 2018](the_diigitals.png)
+
+???
+The world's first all digital modeling agency
+
+Hyperreal fashion models -- literally models without an original.   Available for "hire" and now also being sold as NFTs;  Note their Instagram pages
 
 ---
 
