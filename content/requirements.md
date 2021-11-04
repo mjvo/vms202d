@@ -90,7 +90,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 
     * Blog Post 2:  "[The Visuality of a Nasher Exhibit](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog2_nasher_exhibition.pdf)" - Due October 29, 2021
 
-    * Blog Post 3:  Theme TBD - Due November 19, 2021
+    * Blog Post 3:  "[Extending Theory: Critical Visual Analysis](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog3_critical_visual_analysis.pdf)" - Due Tuesday, November 23, 2021
 
     ---
 

@@ -357,7 +357,6 @@ Reading Due:
 ## Friday, November 19
 **Discussion Sections**
 
-Blog #3
 
 ---
 
@@ -367,6 +366,10 @@ Blog #3
 Reading Due:
 
 * _Practices of Looking_, Chapter 10 (pp. 379-402)
+
+<span class="tag is-danger">Due Tuesday, Nov 23rd by 5PM:</span>
+
+* [Blog #3 - Extending Theory: Critical Visual Analysis](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog3_critical_visual_analysis.pdf)
 
 ---
 
@@ -390,7 +393,7 @@ Reading Due:
 ---
 
 ## Wednesday, December 1
-**TBD** 
+**Review for Final Exam** 
 
 ---
 
