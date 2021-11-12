@@ -182,9 +182,9 @@ class: center, no-footer
 ---
 # Art and Everyday Life
 
-* The construction of "situations"
+* The construction of "situations": "the concrete construction of momentary ambiances of life and their transformation into a superior passional quality."
 
-* Practices to capture “Living Desires” and distinguish them from “Pseudo-needs”
+* Practices that capture “Living Desires” and help us distinguish them from “Pseudo-needs”
 
 ???
 
@@ -193,14 +193,51 @@ Debord defined psychogeography in 1955 as "the study of the precise laws and spe
 Influenced by the 19th century French poet Charles Baudelaire's concept of the flâneur, a kind of dandy who wandered the city, dérive, or drift, was defined by Debord as, "the practice of a passional journey out of the ordinary through a rapid changing of ambiences." The concept, which was also called Situationist drift, was an essential component of psychogeography, as a place was 'mapped' by individuals wandering freely through the urban environment and finding their own ambient site
 
 ---
+class: fit-h1, center
+# _Psychogeographique de Paris. Speech on the Passions of Love_ (1957)
 
+![Psychogeographique de Paris](debordpsychogeo.jpg)
+
+???
+
+The first published discussion of psychogeography was in the Lettrist journal Potlatch (1954), which included a 'Psychogeographical Game of the Week':
+
+Depending on what you are after, choose an area, a more or less populous city, a more or less lively street. Build a house. Furnish it. Make the most of its decoration and surroundings. Choose the season and the time. Gather together the right people, the best records and drinks. Lighting and conversation must, of course, be appropriate, along with the weather and your memories. If your calculations are correct, you should find the outcome satisfying. (Please inform the editors of the results.)[6]
+
+---
+class: center
 # The Dérive
 
----
-# "Eye Gazing" as Interpersonal Derive?
+![London Psychogeographies](london_psychogeographies.png# w-two-thirds)
+
+Artist: [Lizzy Mary Cullen](https://www.lizziemarycullen.com/)
+???
+
+Theory of the Dérive (Debord, 1956)
+
+> One of the basic situationist practices is the dérive [literally: “drifting”], a technique of rapid passage through varied ambiances. Dérives involve playful-constructive behavior and awareness of psychogeographical effects, and are thus quite different from the classic notions of journey or stroll.
+In a dérive one or more persons during a certain period drop their relations, their work and leisure activities, and all their other usual motives for movement and action, and let themselves be drawn by the attractions of the terrain and the encounters they find there. Chance is a less important factor in this activity than one might think: from a dérive point of view cities have psychogeographical contours, with constant currents, fixed points and vortexes that strongly discourage entry into or exit from certain zones.
+
+> Our loose lifestyle and even certain amusements considered dubious that have always been enjoyed among our entourage — slipping by night into houses undergoing demolition, hitchhiking nonstop and without destination through Paris during a transportation strike in the name of adding to the confusion, wandering in subterranean catacombs forbidden to the public, etc. — are expressions of a more general sensibility which is no different from that of the dérive. Written descriptions can be no more than passwords to this great game.
+
+> Today the different unities of atmosphere and of dwellings are not precisely marked off, but are surrounded by more or less extended and indistinct bordering regions. The most general change that dérive experience leads to proposing is the constant diminution of these border regions, up to the point of their complete suppression.
 
 ---
+class: img-caption, no-footer
+
+![Eye](arteum-ro-7H41oiADqqg-unsplash.jpg)
+# "Eye Gazing" as Interpersonal Derive?
+
+???
+Discuss
+
+---
+class: center
 # Radi-Aid as Detournement
+
+![Radi-Aid Logo](Rusty-Radiator-2018.jpg)
+
+https://www.radiaid.com/
 
 ???
 
