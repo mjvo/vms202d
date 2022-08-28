@@ -13,16 +13,16 @@
     {{ block "layout" . }}{{ end }}
     <!-- Theme used for syntax highlighting of code -->
     {{- $highlight_theme := $.Param "reveal_hugo.highlight_theme" | default "default" -}}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ $highlight_theme }}.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/styles/{{ $highlight_theme }}.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     {{ if or (in .Site.Params.classes "feature-math") (in .Params.classes "feature-math") -}}
     {{- if not (or (in .Site.Params.classes "feature-nomath") (in .Params.classes "feature-nomath") ) -}}
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.9.0/dist/katex.min.css" integrity="sha384-TEMocfGvRuD1rIAacqrknm5BQZ7W7uWitoih+jMNFXQIbNl16bO8OZmylH/Vi/Ei" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/katex@0.9.0/dist/katex.min.js" integrity="sha384-jmxIlussZWB7qCuB+PgKG1uLjjxbVVIayPJwi6cG6Zb4YKq0JIw+OMnkkEC7kYCq" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.1/katex.min.css" integrity="sha512-YwbrXroETYnC2xa8ain2/SrtY0d8R5BWSvUgqHf+HNdW8p9LoCVPzeUcngBdaDtFj4iJdTbSzsJhDnsC3v+vSA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.1/katex.min.js" integrity="sha512-OorWDGoHiybzLjx8ncqe7N0SuuF3pM+Xp43g4FNR6sa5RB23aQ1+mEnAeld8JKuP5ez0quvQO+lgTkJrwJYoPw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="{{ "remark/js/auto-render.min.js" | relURL }}"></script> <!-- for KaTeX -->
     {{- end -}}
   {{- end -}}
-    <script src="{{ "remark/js/auto-render.min.js" | relURL }}"></script> <!-- for KaTeX -->
+ <!--    <script src="{{ "remark/js/auto-render.min.js" | relURL }}"></script> --> <!-- for KaTeX -->
     <script src="{{ "remark/js/story.js" | relURL }}"></script>
   </head>
   <body class=" {{ with .Section }}section-{{ . }}{{ end }} page-kind-{{ .Kind }} is-page-{{ .IsPage }} {{ with .Site.Params.classes }}{{ range . }} {{ . }}{{ end }}{{ end }}{{ with .Params.classes }}{{ range . }} {{ . }}{{ end }}{{ end }}">

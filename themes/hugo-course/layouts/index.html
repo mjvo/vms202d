@@ -19,7 +19,7 @@
           {{- . | safeHTML }}<br />
           {{ end }}
           {{ with .Site.Params.course.discussion_sections.location }}
-          {{- . }}
+          {{- . | safeHTML }}
           {{ end }}
         </p>
         {{ end }}
