@@ -30,7 +30,7 @@ params:
   course:
     name: "Introduction to Visual Culture"
     dept_url: "https://aahvs.duke.edu"
-    dept_logo: "/images/AAHVS_Barcode_Logo.png"
+    dept_logo: "images/AAHVS_Barcode_Logo.png"
     day_time: "Mondays & Wednesdays, 12:00 - 1:15 PM"
     location: "Auditorium, Nasher Museum of Art"
     discussion_sections:

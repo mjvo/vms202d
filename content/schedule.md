@@ -7,38 +7,40 @@ Schedule subject to change at instructor’s discretion.
 
 ---
 
-## Monday, August 23
+## Monday, August 29
 **Introduction**
 
 * What is Visual Culture?
 
 Before next class:
 
-* Introduce yourself on our class' [Teams Space](https://teams.microsoft.com/l/team/19%3a6-2QSAJflR4U-QevaoFNs_34nUtJ_KN_3CeuA8tgOE01%40thread.tacv2/conversations?groupId=37de6a67-85dc-43de-9b53-0aa6c915eb1c&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c) and share an artifact of visual culture of recent interest.
+* Introduce yourself on our Sakai sites' [Conversation](https://sakai.duke.edu/x/Y0pfVU) within the "Introduce Yourself!" discussion and share an artifact of visual culture of recent interest.
 
 ---
 
-## Wednesday, August 25
+## Wednesday, August 31
 **Images, Power, and Politics, Part 1**
 
 Reading Due:
 
-* _Practices of Looking_, Introduction and Chapter 1 (pp. 1 - 29).  [PDF](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/POL-intro_chapter1.pdf)
+* _Practices of Looking_, Introduction and Chapter 1 (pp. 1 - 29).  [PDF](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/POL-intro_chapter1_1-29.pdf)
 
 ---
-## Friday, August 27
+## Friday, September 2
 **Discussion Sections**
 
 Before class:
 
-* Review lecture notes and Chapter 1, pp 1 - 28.
+* Review lecture notes and Chapter 1, pp 1 - 29.
 * Watch:
+    * [Stefano Harney on Study](https://www.youtube.com/watch?v=uJzMi68Cfw0)
+    * [Fred Moten on Figuring It Out](https://www.youtube.com/watch?v=SmnFeGaCkGI)
     * [Ulay Interview: How I Stole a Painting](https://www.youtube.com/watch?v=i2E0J6J3KGI)
     * [Photographing Secret Sites and Satellites | Meet Trevor Paglen](https://youtu.be/9Igfu0VwdkQ)
 
 ---
 
-## Monday, August 30
+## Monday, September 5
 **Images, Power, and Politics, Part 2**
 
 Reading Due:
@@ -47,72 +49,72 @@ Reading Due:
 
 ---
 
-## Wednesday, September 1
+## Wednesday, September 7
 **Viewers Make Meaning, Part 1**
 
 Reading Due:
 
-* Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  [PDF Version](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/Art%2C%20Power%2C%20and%20Profit%20at%20Duke%20University.pdf)
+* Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  [PDF Version](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/Art%2C%20Power%2C%20and%20Profit%20at%20Duke%20University.pdf)
 
 * _Practices of Looking_, Chapter 2 (pp. 51 – 74)
 
 ---
 
-## Friday, September 3
+## Friday, September 9
 **Discussion Sections** 
 
 Reading Due:
 
-* Patterson, A. (2004). [Keywords: Raymond Williams and Others](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/patterson2004.pdf). _ESC: English Studies in Canada, 30_(4), 66–80. DOI: 10.1353/esc.2004.0066
+* Patterson, A. (2004). [Keywords: Raymond Williams and Others](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/patterson2004.pdf). _ESC: English Studies in Canada, 30_(4), 66–80. DOI: 10.1353/esc.2004.0066
 
 
 <span class="tag is-warning">Complete Quiz #1 by 11:59 PM</span>
 
 ---
 
-## Monday, September 6
+## Monday, September 12
 **Viewers Make Meaning, Part 2: Ideology and Encoding / Decoding**
 
-<span class="tag is-danger">CLASS WILL BE HELD ON ZOOM</span>
+<span class="tag is-danger">CLASS WILL BE HELD IN 103 CLASSROOM BLDG on East Campus</span> 
 
 Reading Due:
 
 * _Practices of Looking_, Chapter 2 (pp. 74 – 88)
 
-* Stuart Hall, [“Encoding / Decoding”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/hall1980_EncodingDecoding.pdf) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
+* Stuart Hall, [“Encoding / Decoding”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/hall1980_EncodingDecoding.pdf) (1980/2006) in Durham, M.G. & Kellner, D.M. _Media and Cultural Studies: KeyWorks_.  Malden, MA: Blackwell Publishing. pp. 163-173.
 
 ---
 
-## Wednesday, September 8
+## Wednesday, September 14
 **The Politics of Authorship, Part 1:  Barthes vs. Foucault**
 
 Reading Due:
 
-* Barthes, Roland. (1967 ⁄ 1977). [“Death of the Author.”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/barthes1977_DeathOfTheAuthor.pdf) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
+* Barthes, Roland. (1967 ⁄ 1977). [“Death of the Author.”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/barthes1977_DeathOfTheAuthor.pdf) in _Image-Music-Text_. London: Fontana Press. pp. 142-148.
 
-* Foucault, Michel. (1969 ⁄ 1998). [“What is an Author?”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/foucault1969_WhatIsAnAuthor.pdf) in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
+* Foucault, Michel. (1969 ⁄ 1998). [“What is an Author?”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/foucault1969_WhatIsAnAuthor.pdf) in _Aesthetics, Method, and Epistemology (Essential Works of Foucault, 1954-1984, Vol. 2)_. New York: The New Press. pp. 205-222.
 
 ---
 
-## Friday, September 10
+## Friday, September 16
 **Discussion Sections**
 
 <span class="tag is-warning">Complete Quiz #2 by 11:59 PM</span>
 
 ---
 
-## Monday, September 13
-**The Politics of Authorship, Part 2:  Authorship, Identity, Social Media**
+## Monday, September 19
+**The Politics of Authorship, Part 2:  Craft, Labor, and Alienation**
 
 Reading Due:
 
-* Abreu, Manual Arturo.  (2016).  “[Online Imagined Black English](https://arachne.cc/issues/01/online-imagined_manuel-arturo-abreu.html).”   _Arachne_, Issue #1.   
-* Parham, Jason (2020, August 4). “[TikTok and the Evolution of Digital Blackface](https://www.wired.com/story/tiktok-evolution-digital-blackface/).” _Wired_.
+* Selection from Karl Marx's early writings on "estranged labor"
+* Graeber, David. (2013). "On the Phenomenon of Bullshit Jobs: A Work Rant." Strike! Magazine, Issue 3 "The Summer of …"
 
 
 ---
 
-## Wednesday, September 15
+## Wednesday, September 21
 **Modernity: Spectatorship, the Gaze, and Power, Part 1**
 
 Reading Due:
@@ -121,16 +123,16 @@ Reading Due:
 
 ---
 
-## Friday, September 17
+## Friday, September 23
 **Discussion Sections**
 
-Bring preliminary set of visual artefacts for [Visual Culture Time Capsule blog post](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog1_visual_time_capsule.pdf).
+Bring preliminary set of visual artefacts for **Visual Culture Time Capsule blog post**
 
 <span class="tag is-warning">Complete Quiz #3 by 11:59 PM</span>
 
 --- 
 
-## Monday, September 20
+## Monday, September 26
 **Modernity: Spectatorship, the Gaze, and Power, Part 2**
 
 Reading Due:
@@ -139,21 +141,21 @@ Reading Due:
 
 ---
 
-## Wednesday, September 22
-The Colonial Gaze and the Right to Look
+## Wednesday, September 28
+**The Colonial Gaze and the Right to Look**
 
-* Mirzoeff, N. (2011).  "[Introduction: The Right to Look, or, How to Think Within and Against Visuality](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/mirzoeff2011_chapter1.pdf)" in _The Right to Look._  Durham:  Duke University Press.  pp. 1 - 30.
+* Mirzoeff, N. (2011).  "[Introduction: The Right to Look, or, How to Think Within and Against Visuality](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/mirzoeff2011_chapter1.pdf)" in _The Right to Look._  Durham:  Duke University Press.  pp. 1 - 30.
 
 ---
 
-## Friday, September 24
+## Friday, September 30
 **Discussion Sections**
 
-Due:  "[Visuality Time Capsule 2021](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog1_visual_time_capsule.pdf)" Blog Post
+Due:  "Visuality Time Capsule 2021" Blog Post
 
 --- 
 
-## Monday, September 27
+## Monday, October 3
 **Realism and Perspective: From Renaissance Painting to Digital Media, Part 1**
 
 Reading Due:
@@ -163,7 +165,7 @@ Reading Due:
 
 ---
 
-## Wednesday, September 29
+## Wednesday, October 5
 **Realism and Perspective: From Renaissance Painting to Digital Media, Part 2**
 
 Reading Due:
@@ -172,33 +174,33 @@ Reading Due:
 
 ---
 
-## Friday, October 1
+## Friday, October 7
 **Discussion Sections**
 
 <span class="tag is-warning">Complete Quiz #4 by 11:59 PM</span>
 
 ---
 
-## Monday, October 4
+## Monday, October 10
 **No Class - Fall Break**
 
 ---
 
-## Wednesday, October 6
+## Wednesday, October 12
 **Midterm Exam Review** 
 
 [Midterm Review Sheet](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/Midterm_Review.pdf)
 
 ---
 
-## Friday, October 8
+## Friday, October 14
 **Discussion Sections**
 
 <span class="tag is-danger">Midterm Exam</span>
 
 ---
 
-## Monday, October 11
+## Monday, October 17
 **The Work of Art in the Age of Mechanical Reproduction**
 
 Reading Due:
@@ -208,7 +210,7 @@ Reading Due:
 
 ---
 
-## Wednesday, October 13
+## Wednesday, October 19
 **Visual Technologies, Reproduction, and the Copy, Part 1**
 
 Reading/Viewing Due:
@@ -220,14 +222,14 @@ Reading/Viewing Due:
 
 --- 
 
-## Friday, October 15
+## Friday, October 21
 **Discussion Sections**
 
 <span class="tag is-warning">Complete Quiz #5 by 11:59 PM</span>
 
 ---
 
-## Monday, October 18
+## Monday, October 24
 **The Culture Industry: Critical Theory and the Frankfurt School**
 
 Reading Due:
@@ -237,7 +239,7 @@ Reading Due:
 
 ---
 
-## Wednesday, October 20
+## Wednesday, October 26
 **Visual Technologies, Reproduction, and the Copy, Part 2**
 
 Reading Due:
@@ -247,7 +249,7 @@ Reading Due:
 
 ---
 
-## Friday, October 22
+## Friday, October 28
 **Discussion Sections**
 
 <span class="tag is-warning">Complete Quiz #6 by 11:59 PM</span>
@@ -260,7 +262,7 @@ Read:
 
 ---
 
-## Monday, October 25
+## Monday, October 31
 **Simulacra and Simulations**
 
 Read: 
@@ -269,32 +271,7 @@ Read:
 
 ---
 
-## Wednesday, October 27
-**Brand Culture: The Images and Spaces of Consumption, Part 1**
-
-Reading Due:
-
-* _Practices of Looking_, Chapter 7 (pp. 257-278)
-
----
-
-## Friday, October 29
-**Discussion Sections**
-
-Due:  "[The Visuality of a Nasher Exhibit](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog2_nasher_exhibition.pdf)" (Blog Post #2)
-
----
-
-## Monday, November 1
-**Brand Culture: The Images and Spaces of Communication, Part 2**
-
-Reading Due:
-
-* _Practices of Looking_, Chapter 7 (pp. 278-299)
-
----
-
-## Wednesday, November 3
+## Wednesday, November 2
 **Media in Everyday Life, Part 1**
 
 Reading Due:
@@ -303,14 +280,14 @@ Reading Due:
 
 ---
 
-## Friday, November 5
+## Friday, November 4
 **Discussion Sections**
 
-<span class="tag is-warning">Complete Quiz #7 by 11:59 PM</span>
+Due:  "The Visuality of a Nasher Exhibit" (Blog Post #2)
 
 ---
 
-## Monday, November 8
+## Monday, November 7
 **Media in Everyday Life, Part 2**
 
 Reading Due:
@@ -319,7 +296,33 @@ Reading Due:
 
 ---
 
-## Wednesday, November 10
+## Wednesday, November 9
+**Brand Culture: The Images and Spaces of Consumption, Part 1**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 7 (pp. 257-278)
+
+---
+
+## Friday, November 11
+**Discussion Sections**
+
+<span class="tag is-warning">Complete Quiz #7 by 11:59 PM</span>
+
+---
+
+## Monday, November 14
+**Brand Culture: The Images and Spaces of Communication, Part 2**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 7 (pp. 278-299)
+
+
+---
+
+## Wednesday, November 16
 **Postmodernism: Irony, Parody, and Pastiche**
 
 Reading Due:
@@ -328,14 +331,14 @@ Reading Due:
 
 --- 
 
-## Friday, November 12
+## Friday, November 18
 **Discussion Sections**
 
 <span class="tag is-warning">Complete Quiz #8 by 11:59 PM</span>
 
 ---
 
-## Monday, November 15
+## Monday, November 21
 **Scientific Looking, Looking at Science, Part 1**
 
 Reading Due:
@@ -344,7 +347,17 @@ Reading Due:
 
 ---
 
-## Wednesday, November 17
+## Wednesday, November 23
+**No Class -- Thanksgiving Break**
+
+---
+
+## Friday, November 25
+**No Discussion Sections -- Thanksgiving Break**
+
+---
+
+## Monday, November 28
 **Scientific Looking, Looking at Science, Part 2**
 
 Reading Due:
@@ -354,13 +367,7 @@ Reading Due:
 
 ---
 
-## Friday, November 19
-**Discussion Sections**
-
-
----
-
-## Monday, November 22
+## Wednesday, November 30
 **The Global Flow of Visual Culture, Part 1**
 
 Reading Due:
@@ -369,21 +376,18 @@ Reading Due:
 
 <span class="tag is-danger">Due Tuesday, Nov 23rd by 5PM:</span>
 
-* [Blog #3 - Extending Theory: Critical Visual Analysis](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog3_critical_visual_analysis.pdf)
+* Blog #3 - Extending Theory: Critical Visual Analysis
 
 ---
 
-## Wednesday, November 24
-**No Class -- Thanksgiving Break**
+## Friday, December 2
+**Discussion Sections**
+
+<span class="tag is-warning">Complete Quiz #9 by 11:59 PM</span>
 
 ---
 
-## Friday, November 26
-**No Discussion Sections -- Thanksgiving Break**
-
----
-
-## Monday, November 29
+## Monday, December 5
 **The Global Flow of Visual Culture, Part 2**
 
 Reading Due:
@@ -392,19 +396,19 @@ Reading Due:
 
 ---
 
-## Wednesday, December 1
+## Wednesday, December 7
 **Review for Final Exam** 
 
 ---
 
-## Friday, December 3
+## Friday, December 9
 **Discussion Sections**
 
-<span class="tag is-warning">Complete Quiz #9 by 11:59 PM</span>
+* Continue Review for Final Exam
 
 ---
 
-## Wednesday, December 8
+## Wednesday, December 14
 
 <span class="tag is-danger">Final Exam</span>
 

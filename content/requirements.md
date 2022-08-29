@@ -9,7 +9,7 @@ The following textbook is required:
 
 * Sturken, Marita & Cartwright, Lisa. (2017). _[Practices of Looking: An Introduction to Visual Culture.]((https://www-worldcat-org.proxy.lib.duke.edu/title/practices-of-looking-an-introduction-to-visual-culture/oclc/1006728878))_ (3rd Edition.) Oxford & New York: Oxford University Press. ISBN-13: 978-0190265717
 
-Additional readings are linked from the <a href="../schedule/">schedule</a> to our [Sakai Resources](https://sakai.duke.edu/x/JAMgvY) page.
+Additional readings are linked from the <a href="../schedule/">schedule</a> to our [Sakai Resources](https://sakai.duke.edu/x/S68cYY) page.
 
 ---
 
@@ -86,30 +86,28 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 
     In lieu of longer papers, you will compose three (3) themed, scholarly blog posts over the course of the semester.  Each of these will ask you to find, create, or address specific visual media and discuss them in response to specific prompts and questions.  These are short, concise, and image-rich writing assignments, approx. 600-800 words.
 
-    * Blog Post 1: "[Visuality Time Capsule 2021](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog1_visual_time_capsule.pdf)" - Due September 24, 2021
+    * Blog Post 1: "Visuality Time Capsule 2022" - Due September 30, 2022
 
-    * Blog Post 2:  "[The Visuality of a Nasher Exhibit](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog2_nasher_exhibition.pdf)" - Due October 29, 2021
+    * Blog Post 2:  "The Visuality of a Nasher Exhibit" - Due November 4, 2022
 
-    * Blog Post 3:  "[Extending Theory: Critical Visual Analysis](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/blog3_critical_visual_analysis.pdf)" - Due Tuesday, November 23, 2021
+    * Blog Post 3:  "Extending Theory: Critical Visual Analysis" - Due Tuesday, November 30, 2022
 
     ---
 
 4. **Midterm Exam**
 
     _20% of course grade_   
-    **In sections on Friday, October 8**
+    **In sections on Friday, October 14**
 
-    The midterm exam will cover material from the first half of the course (August 23 &rarr; approx. October 6).
-
-    [Midterm Review Sheet](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Assignments/Midterm_Review.pdf)
+    The midterm exam will cover material from the first half of the course (August 29 &rarr; approx. October 7).
 
     ---
 
 5. **Final Exam**
 
     _25% of course grade_   
-    **December 8, 9:00 AM - 12:00 PM**
+    **December 14, 9:00 AM - 12:00 PM**
 
-    The final exam will consiste of short answer and essay questions that focus on content from the second half of the course (approx. October 11 →). Additionally, the exam will include _at least two_ **comprehensive** questions that will span content from the entire course.
+    The final exam will consiste of short answer and essay questions that focus on content from the second half of the course (approx. October 17 →). Additionally, the exam will include _at least two_ **comprehensive** questions that will span content from the entire course.
     
 ---
