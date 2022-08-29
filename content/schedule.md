@@ -43,6 +43,8 @@ Before class:
 ## Monday, September 5
 **Images, Power, and Politics, Part 2**
 
+<span class="tag is-danger">CLASS WILL BE HELD IN 103 CLASSROOM BLDG on East Campus</span> 
+
 Reading Due:
 
 * _Practices of Looking_, Chapter 1 (pp. 29 - 49)
@@ -74,8 +76,6 @@ Reading Due:
 
 ## Monday, September 12
 **Viewers Make Meaning, Part 2: Ideology and Encoding / Decoding**
-
-<span class="tag is-danger">CLASS WILL BE HELD IN 103 CLASSROOM BLDG on East Campus</span> 
 
 Reading Due:
 
