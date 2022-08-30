@@ -43,7 +43,7 @@ Before class:
 ## Monday, September 5
 **Images, Power, and Politics, Part 2**
 
-<span class="tag is-danger">CLASS WILL BE HELD IN 103 CLASSROOM BLDG on East Campus</span> 
+<span class="tag is-info">CLASS WILL BE HELD IN 103 CLASSROOM BLDG on East Campus</span> 
 
 Reading Due:
 
@@ -224,6 +224,10 @@ Reading/Viewing Due:
 
 ## Friday, October 21
 **Discussion Sections**
+
+<span class="tag is-info">CLASS WILL BE HELD IN THE NASHER</span>
+
+Guided tour of the *(Roy Lichtenstein: History in the Making, 1948 – 1960)[https://nasher.duke.edu/exhibitions/roy-lichtenstein-history-in-the-making-1948-1960/]* exhibition, Nasher's "[https://nasher.duke.edu/collection-research/](study storage)," and the exhibition  *[https://nasher.duke.edu/exhibitions/beyond-the-surface-collage-mixed-media-and-textile-works-from-the-collection/](Beyond the Surface)*
 
 <span class="tag is-warning">Complete Quiz #5 by 11:59 PM</span>
 
