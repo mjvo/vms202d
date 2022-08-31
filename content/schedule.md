@@ -47,7 +47,7 @@ Before class:
 
 Reading Due:
 
-* _Practices of Looking_, Chapter 1 (pp. 29 - 49)
+* _Practices of Looking_, Chapter 1 (pp. 29 - 49) [PDF](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/POL-chapter1_29-49.pdf)
 
 ---
 
