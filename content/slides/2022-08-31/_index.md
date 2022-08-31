@@ -69,7 +69,7 @@ class: compact
 * How do you see?
 
     * Point of view / identity &amp; background (race, class, gender, sexuality, religion, ...) 
-    * Quality of the Look (gaze, glance, stare, voyeuristic)
+    * Quality of the Look (gaze, glance, stare, voyeuristic, looking away)
     * "Through" some medium (screen, lens, etc)
 --
 
@@ -88,6 +88,13 @@ class: compact
 class: img-caption
 
 ![warning: graphic images](graphic-warning.jpg)
+
+???
+Power of graphic images...Emmett till or drowned immigrant child for social change
+
+Graphic images for sensationalism... " We have to warn you, some of these images are disturbing"
+
+Coercion in the classroom...the power to make you look
 
 ---
 # Visuality
@@ -121,6 +128,9 @@ class: col-2, compact
 * Some representations we think of as <span class="underline">mimetic</span> (aim to be a "mirror copy" of the real/material world). 
 
 * But all representation is **mediated** in some way, refracting that mirror image.
+
+???
+Throughout history, debates about representation have considered whether representations reflect the world as it is, mirroring it back to us through imitation or mimesis, or whether we construct the world and its meaning through representations that are abstract and not mimetic or imitative of physical form. (S&C 19)
 
 ---
 class: img-left
@@ -185,6 +195,11 @@ class: center
 
 ### Kanizsa Triangle
 ![Kaniza Triangle](kaniza_triangle.jpg# w-40pct)
+
+---
+class: center
+
+![Scott Mccloud, *Understanding Comics: The Invisible Art,* 1993](mccloud1993magritte.png)
 
 ---
 class: compact 
