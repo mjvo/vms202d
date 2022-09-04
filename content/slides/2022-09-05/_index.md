@@ -1,6 +1,6 @@
 ---
 title: 'Images, Power, and Politics, Part 2'
-date: "2021-08-30"
+date: "2022-09-05"
 outputs: "Remark"
 
 cover_img: "austin-chan-ukzHlkoz1IE-unsplash.jpg" # same dir as slideshow
@@ -19,7 +19,7 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(austin-chan-ukzHlkoz1IE-unsplash.jpg)
 
 # Images, Power, &amp; Politics
-### Part 2<br />August 30, 2021
+### Part 2<br />September 5, 2022
 
 ---
 class: roomy
@@ -276,13 +276,17 @@ class: col-2
 # Index
 
 * _**HIGH**_ Degree of Motivation
-* A sign that is <span style="color:#00D100;">PHYSICALLY PRODUCED</span> by its referent.<br /><br />
+* A sign that has an "existential" relatoinship, "co-existing" with its referent.  
+* It is often <span style="color:#00D100;">PHYSICALLY PRODUCED</span> by its referent.<br /><br />
 * Examples:
     * Smoke is an index of fire
     * Sneezing is an index of a cold
     * A fingerprint is an index of a thief
 
 ![Tire Tracks](tire_tracks.jpg# w-80pct)
+
+???
+Existential: affirming or implying the existence of a thing.  having being in time and space.
 
 ---
 class: img-right center
@@ -293,7 +297,12 @@ class: img-left
 ![Cricket](cricket.jpg)
 
 
-Like this image of my dog?
+My old pup, Cricket (RIP)?
+
+???
+traditional form of photography, the technique in which light rays reflecting off objects pass through a lens and register an imprint on a medium such as silver halide film (or, in the case of digital photography, a digital chip
+
+the "having been there/then"
 
 ---
 
@@ -301,7 +310,7 @@ Like this image of my dog?
 
 * Read:  
 
-    * Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  [PDF version](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/Art%2C%20Power%2C%20and%20Profit%20at%20Duke%20University.pdf)
+    * Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  [PDF version](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/Art%2C%20Power%2C%20and%20Profit%20at%20Duke%20University.pdf)
 
     * _Practices of Looking_, Chapter 2 (pp. 51 – 74)
 
