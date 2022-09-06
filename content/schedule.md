@@ -3,7 +3,7 @@ title: "Schedule"
 menu: "main"
 ---
 
-Schedule subject to change at instructor’s discretion.
+Schedule subject to change at instructor’s discretion.  Please check back frequently for latest version.
 
 ---
 
@@ -65,10 +65,7 @@ Reading Due:
 ## Friday, September 9
 **Discussion Sections** 
 
-Reading Due:
-
-* Patterson, A. (2004). [Keywords: Raymond Williams and Others](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/patterson2004.pdf). _ESC: English Studies in Canada, 30_(4), 66–80. DOI: 10.1353/esc.2004.0066
-
+Review your notes on PoL Chapter 1 (esp. your understanding of semiotics) and come prepared to discuss the Duke Mangum controversy "[Art, Power, and Profit at Duke University](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/Art%2C%20Power%2C%20and%20Profit%20at%20Duke%20University.pd)
 
 <span class="tag is-warning">Complete Quiz #1 by 11:59 PM</span>
 
