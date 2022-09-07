@@ -309,9 +309,16 @@ class: img-left
 My old pup, Cricket (RIP)?
 
 ???
-traditional form of photography, the technique in which light rays reflecting off objects pass through a lens and register an imprint on a medium such as silver halide film (or, in the case of digital photography, a digital chip
+
+Photographs
+- iconic
+- indexical (light rays bouncing off); traditional form of photography, the technique in which light rays reflecting off objects pass through a lens and register an imprint on a medium such as silver halide film (or, in the case of digital photography, a digital chip
 
 the "having been there/then"
+
+Myth of photographic truth and the belief in the machine recording of an image (as opposed to the painter's interpretive hand) provides a mimetic mirroring of the world as it is (positivism)
+
+New forms of photorealistic images
 
 ---
 

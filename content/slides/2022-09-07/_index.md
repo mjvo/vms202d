@@ -1,6 +1,6 @@
 ---
 title: "Viewers Make Meaning, Part 1"
-date: "2021-09-01"
+date: "2022-09-07"
 outputs: "Remark"
 
 cover_img: "warhol_heinz.png" # same dir as slideshow
@@ -15,22 +15,41 @@ themes:
 highlight_style: "atom-one-dark"
 
 ---
+class: center
 
-class: title
+![Intimate Visions Gallery Talk](intimate_visions.png# w-33pct)
 
-# Discuss:<br />“Art, Power, and Profit at Duke University”
+https://duke.is/yxmc7
+
 
 ---
 
-class: roomy
+class: col-3
 
-# Review
+# Semiotics: Degrees of Motivation, cont'd
 
-* Studium vs. Punctum
+<br /><br />![Toyota Logo](toyota.jpg)
 
---
+<br /><br />
+![Google Logo](Google_2015_logo.svg.png)
 
-* Semiotics
+![Addidas Logo](addidas.png)
+???
+Toyota logo . . . 
+Ovals represent hearts . . . The three ellipses within the logo purportedly represent three hearts. One ellipse is the heart of the customer, another represents the heart of the product. The last ellipses are the heart of progress in the field of technology.
+
+Google logo -- symbolic   . . . primary colors . . .use of the 2ndary color on "l" connotes that "Google doesn't follow the rules"
+
+Addidas logo:  Mountain icon
+
+---
+class: col-2
+
+# Semiottics: Degrees of Motivation, cont'd 
+
+![MRI](mri.jpg)
+
+![Midjourney](midjourney.png)
 
 ---
 
@@ -81,7 +100,7 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(warhol_heinz.png)
 
 # Viewers Make Meaning
-### Part 1: Codes, Viewers, Contexts<br>September 1, 2021
+### Part 1: Codes, Viewers, Contexts<br>September 7, 2022
 
 ---
 
@@ -235,11 +254,31 @@ class: center
 ![Culture Jamming CK 2](culture_jam2.png)
 
 ---
+class: col-2, fit-h1, roomy
+
+# Key Issues in “Art, Power, and Profit at Duke University"
+
+* Appropriation
+
+* Authorship
+
+* Institutional Authentication
+
+* Originality and the politics of reproduction   
+<br /><br /><br />
+* Copyright    
+
+* Art Markets
+
+* Race &amp; Representation
+
+* Others?
+
+---
 # For Friday:
 
-* Review your notes
-* Read:  Patterson, A. (2004). [Keywords: Raymond Williams and Others](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/patterson2004.pdf). _ESC: English Studies in Canada, 30_(4), 66–80. DOI: 10.1353/esc.2004.0066
-* Complete Quiz #1 on Sakai before 11:59 PM Friday
+* Review your notes on PoL chapter 1 and from lecture, esp. semiotics key concepts
+* Reread Casey, Brenna M. (2021, August 29).  "[Art, Power, and Profit at Duke University](https://www.theassemblync.com/long-form/art-power-and-profit-at-duke-university)"  The Assembly.  [PDF version](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/Art%2C%20Power%2C%20and%20Profit%20at%20Duke%20University.pdf)
 
 <hr />
 # For Monday:
