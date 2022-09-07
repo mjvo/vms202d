@@ -148,7 +148,7 @@ Reading Due:
 ## Friday, September 30
 **Discussion Sections**
 
-Due:  "Visuality Time Capsule 2021" Blog Post
+Due:  "Visuality Time Capsule 2022" Blog Post
 
 --- 
 
