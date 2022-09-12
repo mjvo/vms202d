@@ -1,6 +1,6 @@
 ---
 title: "Viewers Make Meaning, Part 2"
-date: "2021-09-06"
+date: "2022-09-12"
 outputs: "Remark"
 
 cover_img: "interpellation_cover.jpg" # same dir as slideshow
@@ -117,6 +117,9 @@ Explores relationships between:
 According to Bourdieu, judgements of taste express a class-based <span style="text-decoration:underline;">**habitus**</span>, and are one of the defining elements of social identity.
 
 > <q>Nothing more clearly affirms one's 'class', nothing more infallibly classifies, than tastes in music...there is no more 'classificatory' practice than concert-going, or playing a 'noble' instrument.</q><br /><cite>&mdash; Bourdieu (1979) Distinction, p. 18</cite>
+
+"Taste in music, décor, art, fashion, and so forth are aspects of one’s cultural capital, which is a position assumed not through wealth or class status, *per se*, but through enculturation (for example, an individual who is lower class can embody a habitus that reflects 'upper-class' taste through education, job experience, or studying on their own)." (Sturken & Cartwright)
+
 ---
 class: img-caption
 
@@ -182,19 +185,23 @@ class: title
 background-image: url(koons_silver_bunny.png)
 
 ---
-class: img-right
+class: img-caption, fit-h1
 
-![EtherRock](etherrock.png)
-# NFTs
+![The First 5000 Days](The_First_5000_Days_Beeple_e31a5bb395.jpg)
+# Beeple: The First 5000 Days (NFT sold in 2021 for $69.3 million)
 
-Non-Fungible Tokens
+???
+digital artist Mike "Beeple" Winkelmann who became a household name after selling a collage of 5000 pictures made one per day over more than thirteen years titled ‘Everydays: The First 5000 Days’ at Christie’s first-ever digital art auction in March of 2021. The NFT was sold to Singapore-based crypto investor Vignesh Sundaresan, also known as MetaKovan, who is also the founder of the Metapurse NFT project.
+
+As described by Christie's "the individual pieces are organized in loose chronological order: zooming in reveals pictures by turn abstract, fantastical, grotesque or absurd, deeply personal or representative of current events. Recurring themes include society’s obsession with and fear of technology; the desire for and resentment of wealth; and America’s recent political turbulence." Besides being the second most expensive NFT sold to date, Everydays is also the fourth most expensive work from a living artist ever sold at auction.
+
 ---
 
 class: title, smokescreen, shelf, no-footer
 background-image: url(interpellation_cover.jpg)
 
 # Viewers Make Meaning
-### Part 2: Ideology &amp; Encoding/Decoding<br>September 6, 2021
+### Part 2: Ideology &amp; Encoding/Decoding<br>September 12, 2022
 
 ---
 class: img-left-full
@@ -261,7 +268,7 @@ background-image: url(i_want_you.png)
 
 ---
 class: no-footer center
-<iframe width="90%" height="90%" src="https://www.youtube-nocookie.com/embed/BUvEEVq4woU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="90%" height="90%" src="https://www.youtube-nocookie.com/embed/dzOqyG73KuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 class: col-2 compact
