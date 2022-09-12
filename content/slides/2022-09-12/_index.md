@@ -15,6 +15,31 @@ themes:
 highlight_style: "atom-one-dark"
 
 ---
+class: title
+
+# Semiotics Review
+
+---
+class: bg-black, color-white, title
+
+--
+# Cat
+
+---
+class: bg-black, color-white, center
+
+--
+![Cat Drawing](cat-drawing-black.jpg# w-30pct)
+
+---
+class: bg-black, color-white, center
+
+![Cat Xray](cat-xray.jpg# w-50pct)
+
+???
+Indexical -- physically produced by x-ray electrons passing through the cat, but arguably *less* iconic than the previous image as a sign for cat
+
+---
 class: img-right
 # Production of Meaning
 ![](context.png)
