@@ -1,6 +1,6 @@
 ---
 title: "The Politics of Authorship, Part 1"
-date: "2021-09-08"
+date: "2022-09-14"
 outputs: "Remark"
 
 cover_img: "aaron-burden-y02jEX_B0O0-unsplash.jpg" # same dir as slideshow
@@ -20,7 +20,7 @@ class: title, smokescreen, shelf, no-footer
 background-image: url(aaron-burden-y02jEX_B0O0-unsplash.jpg)
 
 # The Politics of Authorship
-### Part 1: Barthes v. Foucault<br>September 8, 2021
+### Part 1: Barthes v. Foucault<br>September 14, 2022
 
 ---
 
@@ -173,9 +173,9 @@ class: roomy, col-3
 ![Copyright](All-Rights-Reserved-1024x640.jpg)
 
 
-<span style="margin-left:30%;"></span>![Duke Crest](https://upload.wikimedia.org/wikipedia/en/b/b6/Duke_University_Crest.svg) 
+<span style="margin-left:30%;"></span>![Duke Crest](Duke_University_Crest.png) 
 
-![Duke Logo](https://upload.wikimedia.org/wikipedia/commons/e/e6/Duke_University_logo.svg)
+![Duke Logo](Duke_University_logo.svg)
 
 ---
 class: center
@@ -248,5 +248,5 @@ class: roomy
 
 Read:
 
-* Abreu, Manual Arturo.  (2016).  “[Online Imagined Black English](https://arachne.cc/issues/01/online-imagined_manuel-arturo-abreu.html).”   _Arachne_, Issue #1.   
-* Parham, Jason (2020, August 4). “[TikTok and the Evolution of Digital Blackface](https://www.wired.com/story/tiktok-evolution-digital-blackface/).” _Wired_.
+* Selection from Karl Marx’s [early writings (1844) on “estranged labor”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/marx-EstrangedLabour.pdf)
+* Graeber, David. (2013). “[On the Phenomenon of Bullshit Jobs: A Work Rant](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/graeber2013.pdf).” *Strike! Magazine,* Issue 3 “The Summer of …”
