@@ -86,7 +86,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 
     In lieu of longer papers, you will compose three (3) themed, scholarly blog posts over the course of the semester.  Each of these will ask you to find, create, or address specific visual media and discuss them in response to specific prompts and questions.  These are short, concise, and image-rich writing assignments, approx. 600-800 words.
 
-    * Blog Post 1: "Visuality Time Capsule 2022" - Due September 30, 2022
+    * Blog Post 1: "[Visual Culture Time Capsule](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Assignments/blog1_visual_time_capsule.pdf)" - Due September 30, 2022
 
     * Blog Post 2:  "The Visuality of a Nasher Exhibit" - Due November 4, 2022
 

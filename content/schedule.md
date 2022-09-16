@@ -108,6 +108,9 @@ Reading Due:
 * Selection from Karl Marx’s [early writings (1844) on “estranged labor”](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/marx-EstrangedLabour.pdf)
 * Graeber, David. (2013). “[On the Phenomenon of Bullshit Jobs: A Work Rant](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/graeber2013.pdf).” *Strike! Magazine,* Issue 3 “The Summer of …”
 
+Handout: 
+
+* [Blog Post #1 - Visual Culture Time Capsule](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Assignments/blog1_visual_time_capsule.pdf)
 
 ---
 
@@ -123,7 +126,7 @@ Reading Due:
 ## Friday, September 23
 **Discussion Sections**
 
-Bring preliminary set of visual artefacts for **Visual Culture Time Capsule blog post**
+Bring preliminary set of visual artefacts for **[Visual Culture Time Capsule blog post]([Blog Post #1 - Visual Time Capsule](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Assignments/blog1_visual_time_capsule.pdf))**
 
 <span class="tag is-warning">Complete Quiz #3 by 11:59 PM</span>
 
@@ -148,7 +151,7 @@ Reading Due:
 ## Friday, September 30
 **Discussion Sections**
 
-Due:  "Visuality Time Capsule 2022" Blog Post
+Due:  [Blog Post #1 - Visual Culture Time Capsule](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Assignments/blog1_visual_time_capsule.pdf)
 
 --- 
 
