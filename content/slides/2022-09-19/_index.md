@@ -27,7 +27,7 @@ background-image: url(craft_capitalism2.jpg)
 class: col-2, fit-h1    
 
 # Authorship - Craft vs Industrial Production  
-![Master Violin Maker Xian Baokang](Xian-Baokang.jpg# w-90pct)<br/>Master Voilin Maker Xian Baokang
+![Master Violin Maker Xian Baokang](Xian-Baokang.jpg# w-90pct)<br/>Master Violin Maker Xian Baokang
 
 ![Violin Mass Production](violin_factory.jpg# w-75pct)<br />Fengling Violin Factory
 
