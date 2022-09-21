@@ -54,7 +54,7 @@ class: col-2, no-title
 # Modern | Modernity | Modernism
 
 * **Modern** &mdash; A quality or condition of “being modern”, breaking from the traditional or from the past
-* **Modernity** &mdash; An historical period (starting c. the 18th century with the Enlightenment) associated with particular social, economic epistemological and ideological shifts
+* **Modernity** &mdash; An historical period (starting c. the 18th century with the Enlightenment) associated with particular social, economic, epistemological, and ideological shifts
 * **Modernism** &mdash; An artistic, literary and scientific movement.  Not a synonym for modernity.
 
 ![Tatlin, Model for Monument to the Third International](tatlin.jpg# w-8-12th)<br /><caption><small>Vladimir Tatlin, <em>Model for Monument to the Third International</em> (1919-20)</small></caption>
