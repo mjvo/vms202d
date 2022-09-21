@@ -263,4 +263,4 @@ background-image: url(surveillance_cams.png)
 
 # For Monday
 
-* Read _Practices of Looking_, Chapter 3 (pp. 113 – 138)
+* Mirzoeff, N. (2011).  "[Introduction: The Right to Look, or, How to Think Within and Against Visuality](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/mirzoeff2011_chapter1.pdf)" in _The Right to Look._  Durham:  Duke University Press.  pp. 1 - 30.
