@@ -175,9 +175,9 @@ Reading Due:
 ---
 
 ## Friday, October 7
-**Discussion Sections**
+**~~Discussion Section~~s** <span class="tag is-danger">Cancelled, enjoy Fall break!</span>
 
-<span class="tag is-warning">Complete Quiz #4 by 11:59 PM</span>
+<span class="tag is-warning">**However**, you are  still expected to complete Quiz #4 by 11:59 PM</span>
 
 ---
 
@@ -225,7 +225,7 @@ Reading/Viewing Due:
 
 <span class="tag is-info">CLASS WILL BE HELD IN THE NASHER</span>
 
-Guided tour of the *(Roy Lichtenstein: History in the Making, 1948 – 1960)[https://nasher.duke.edu/exhibitions/roy-lichtenstein-history-in-the-making-1948-1960/]* exhibition, Nasher's "[https://nasher.duke.edu/collection-research/](study storage)," and the exhibition  *[https://nasher.duke.edu/exhibitions/beyond-the-surface-collage-mixed-media-and-textile-works-from-the-collection/](Beyond the Surface)*
+Guided tour of the *[Roy Lichtenstein: History in the Making, 1948 – 1960](https://nasher.duke.edu/exhibitions/roy-lichtenstein-history-in-the-making-1948-1960/)* exhibition, Nasher's "[study storage](https://nasher.duke.edu/collection-research/)," and the exhibition  *[Beyond the Surface](https://nasher.duke.edu/exhibitions/beyond-the-surface-collage-mixed-media-and-textile-works-from-the-collection/)*
 
 <span class="tag is-warning">Complete Quiz #5 by 11:59 PM</span>
 
