@@ -203,7 +203,7 @@ Reading Due:
 
 Reading Due:
 
-* Walter Benjamin, 1939. “[The Work of Art in the Age of Its Technological Reproducibility (Third Version).](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/Benjamin1939Work_of_Art.pdf)” in _Selected Writings, Volume 4:  1938-1940_. Edmund Jephcott (trans.).   Cambridge, MA: Harvard University Press, 2003. pp. 251-283.
+* Benjamin, Walter.  (1935).  "[The Work of Art in the Age of Mechanical Reproduction](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/benjamin1935_1968_.pdf)." In Arendt, Hannah (Ed.)/Zohn, Henry (Trans.), _Illuminations_ (pp. 217-251).  Schocken Books.
 
 
 ---
@@ -236,7 +236,7 @@ Guided tour of the *[Roy Lichtenstein: History in the Making, 1948 – 1960](htt
 
 Reading Due:
 
-* Theodor Adorno and Max Horkheimer, 1946. “[The Culture Industry: Enlightenment as Mass Deception](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/horkheimeradorno1946.pdf)“
+* Theodor Adorno and Max Horkheimer, 1946. “The Culture Industry: Enlightenment as Mass Deception“
 
 
 ---
@@ -258,9 +258,9 @@ Reading Due:
 
 Read: 
 
-* Tate. (n.d.). [Institutional Critique – Art Term](https://www.tate.org.uk/art/art-terms/i/institutional-critique).
-* Buren, D. (1970/1985). "[Function of the Museum](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/buren1970.pdf)." In Hertz, R. (Ed.). _Theories of Contemporary Art._ (pp.189-192).  Englewood Cliffs, NJ: Prentice-Hall.
-* Piper, A. (1983/2009).  "[Some Thoughts on the Political Character of This Situation](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/piper1983.pdf)." In Alberro, A. & Stimson, B. (Eds.).  _Institutional Critique: An Anthology of Artists' Writings._  (pp. 242-243).  Cambridge, MA:  MIT Press.
+* Tate. (n.d.). Institutional Critique – Art Term.
+* Buren, D. (1970/1985). "Function of the Museum." In Hertz, R. (Ed.). _Theories of Contemporary Art._ (pp.189-192).  Englewood Cliffs, NJ: Prentice-Hall.
+* Piper, A. (1983/2009).  "Some Thoughts on the Political Character of This Situation." In Alberro, A. & Stimson, B. (Eds.).  _Institutional Critique: An Anthology of Artists' Writings._  (pp. 242-243).  Cambridge, MA:  MIT Press.
 
 ---
 
@@ -269,7 +269,7 @@ Read:
 
 Read: 
 
-* Baudrillard, Jean. (1983/1988). “[Simulacra and Simulations](https://sakai.duke.edu/access/content/group/VMS-202D-001-F21/Readings/baudrillard1983_1988.pdf)“ in Poster, M. (Ed.).  _Jean Baudrillard: Selected Writings._  Stanford, CA:  Stanford University Press.  pp. 166-184.
+* Baudrillard, Jean. (1983/1988). “Simulacra and Simulations“ in Poster, M. (Ed.).  _Jean Baudrillard: Selected Writings._  Stanford, CA:  Stanford University Press.  pp. 166-184.
 
 ---
 
