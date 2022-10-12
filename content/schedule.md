@@ -189,6 +189,8 @@ Reading Due:
 ## Wednesday, October 12
 **Midterm Exam Review** 
 
+[Midterm Review Sheet](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/VMS%20202D%20Midterm%20Review.pdf)
+
 ---
 
 ## Friday, October 14
