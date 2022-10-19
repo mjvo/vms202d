@@ -1,0 +1,293 @@
+---
+title: "Visual Tech, Reproduction, Copies    1"
+date: "2022-10-19"
+outputs: "Remark"
+
+cover_img: "bank-phrom-Tzm3Oyu_6sk-unsplash.jpg" # same dir as slideshow
+
+# remarkJS parameters
+ratio: "16:9" #"4:3"
+themes:
+- apron
+- descartes
+- adirondack
+
+highlight_style: "atom-one-dark"
+
+---
+class: title, fogscreen, no-footer
+background-image: url(bank-phrom-Tzm3Oyu_6sk-unsplash.jpg)
+
+--
+# Visual Technologies, Reproduction,<br />and the Copy: Part 1<br />October 19, 2022
+
+---
+class: compact
+
+# Review
+
+### Walter Benjamin, “The Work of Art in the Age of Mechanical Reproduction.”
+
+* What concepts need clarifying?
+
+    *  aura
+    *  cult value vs exhibition value
+    *  optical unconscious
+
+
+* How would you summarize Benjamin's argument about the _effect_ mechanical reproduction has on a work of art?
+
+* Why might this be important now?
+
+???
+
+Benjamin argues that mass reproduction substitutes a mass existence for a unique one, so it simultaneously diminishes the aura of the work of art but brings it closer to the masses.
+
+aura “the here and now of the work of art—its unique existence in a particular place.”
+
+cult value -- being hidden, singular // exhibition value - being  on display, being seen
+
+our senses are historical, and deeply tied to the technologies with which we interact with and represent the world
+
+---
+
+# Benjamin's "Project"
+
+* Occasion
+
+--
+
+    * A transformation in the <span style="text-decoration: underline">**capitalist mode of production**</span> (the rise of industrial mass production), associated with alienation and de-skilling of the proletariat masses.   
+
+--
+    * Culture (the superstructure) reflects changes in the (economic) base, but more slowly.
+
+--
+* Benjamin’s Goal:  “defining the tendencies of art under the present conditions of production” (p. 252)
+
+---
+# Key Concept - _Economic Determinism_
+
+The idea that the economic "base" determines everything else (the "superstructure":  culture, ideology, social relations)
+
+---
+class: center
+
+# Late Capitalism 
+
+<iframe width="90%" height="80%" src="https://www.youtube.com/embed/O7zZPqar34w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+class: title
+# Technological Determinism
+
+???
+Compare to economic determinism (Marxism)
+
+---
+class: center roomy
+<br><br>
+<q>The medium is the message.</q>
+
+<q>Societies have always been shaped more by the nature of the media with which people communicate than by the content of the communication.</q>
+
+&mdash; Marshall McLuhan
+
+---
+class: roomy
+# Assumptions
+
+* The technology of a given society is a fundamental determinant (or cause) of the form of that society.
+
+* Technology is _autonomous_
+
+* Changes in technology are the primary drivers of change in the society.
+
+---
+class: img-caption no-footer
+
+![Addie Wagenknecht, Black Hawk Paint (2008)](https://bitforms.art/wp-content/uploads/2018/05/aw_blackhawkpaintoctober_1_w.jpg)<br>
+Addie Wagenknecht, _Black Hawk Paint_ (2008)
+
+???
+Discuss:  why this painting? 
+autonomous technology
+Overall fear that technology is driving cultural, social, political economic change without our control (Remember -- modernity installed "man" as the locus of control)
+
+---
+class: compact center
+
+# Copy Culture
+
+![Copy Culture](dafen1.png)<br>
+Dafen, China
+
+---
+class: compact, center, no-footer
+
+<iframe width="90%" height="90%" src="https://www.youtube-nocookie.com/embed/ZbZDO5y43ZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+class: compact center
+
+# Mass Production
+
+![Painting Production Line](dafen2.png)<br>
+20 - 50 paintings per day
+
+???
+8 yuans per copy = $1.20   
+2000 - 3000 yuans per month (roughly $300-$450)
+
+DISCUSS Capitalism   
+	
+* exploitation? - van gogh specialist - factory production 50 paintings each day / yet freedom from factory work
+
+* globalization - 
+	* —> rise of moneyed classes in China — class habitus (Bourdieu) of creative labor (piano school)
+	* —> Dutch bank, chinese & foreign clients, only invests US dollars - $100,000 minimum; Van Gogh as gift
+	* —> US tourists
+	* —> Visual culture of hotel chains
+---
+class: img-right
+# Foreign Entrepreneurs
+
+![Bailey O'Malley, pix2oils.com](omalley.jpg)
+
+<br><br>
+### pix2oils.com<br>(on Facebook)
+
+---
+<br><br>
+![4 Days Production](4days.png)
+
+Copyists:  _huà jiā_ (art workers) vs. _yì shù jiā_ (artists)
+
+???
+https://www.artsy.net/article/artsy-editorial-village-60-worlds-paintings-future-jeopardy
+
+Copyists are not artists, but rather painters or "art workers"
+
+---
+class: title
+
+# **<span style="font-size: 10rem;">&copy;</span> copyright<br>All Rights Reserved**
+
+???
+Copyright is a legal right created by the law of a country that grants the creator of an original work exclusive rights for its use and distribution.
+
+Variant of property law….intellectual property
+
+---
+class: compact
+
+# Copyright(s)
+* To **reproduce** the work as copies;<br><br>
+* To prepare **derivative** works based upon the work;<br><br>
+* To **distribute** copies of the work to the public by sale or other transfer of ownership, or by rental, lease, or lending;<br><br>
+* To publicly **perform** the work;<br><br>
+* To publicly **display** the work;<br><br>
+* To **digitally transmit** (sound recordings only).
+
+---
+class: center
+
+<br><br>
+# <span style="color:#1497FC;">Trademark</span> >> Brands<br><br><span style="color:#7BDB45;">Patent</span> >> Inventions<br><br><span style="color:#D45954;">Copyright</span> >> Artistic Works
+
+???
+Intellectual Property
+
+---
+# Copyright
+
+* Pursuant to 17 U.S. Code § 102, U.S. copyright applies only to:<br><br>
+<q>original works of authorship fixed in any tangible medium of expression</q><br><br>
+
+* 17 U.S.C. § 102(b) codifies that copyright protection does NOT extend to <q>any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.</q>
+
+???
+Facts and ideas may not be copyrighted. "Useful articles" may not be copyrighted. Useful articles includes typeface designs, fashion designs, blank forms, titles, names, short phrases, slogans, lists of ingredients and contents, domain names and band names.
+---
+background-image: url(monkey-selfie.jpg)
+
+???
+Animal-made art is not subject to copyright :   "To qualify as a work of 'authorship' a work must be created by a human being.... Works that do not satisfy this requirement are not copyrightable. The Office will not register works produced by nature, animals, or plants." The Compendium lists several examples of such ineligible works, including "a photograph taken by a monkey" and "a mural painted by an elephant”.  ("Compendium of U.S. Copyright Office Practices, § 313.2" . United States Copyright Office.)
+
+---
+# History of Copyright
+
+* Originated as a means of censorship and control<br>(e.g Stationers Company Monopolies)<br><br>
+* 1710: British <q>Statute of Anne</q><br>(14 yrs term, renewable +14, only 5% registered)<br><br>
+* Written into the US Constitution<br><br>
+* Made automatic in 1886<br><br>
+* History of extending the term 
+
+???
+The origin of copyright law in most European countries lies in efforts by the church and governments to regulate and control the output of printers after the invention of the printing press. Printing allowed for multiple exact copies of a work, leading to a more rapid and widespread circulation of ideas and information. Pope Alexander VI issued a bull in 1501 against the unlicensed printing of books and in 1559 the Index Expurgatorius, or List of Prohibited Books, was issued for the first time.
+
+In 1557 the English Crown thought to stem the flow of seditious and heretical books by chartering the Stationers' Company. The right to print was limited to the members of that guild: restricted to two universities and to the 21 existing printers in the city of London, which had 53 printing presses. 
+
+The British Statute of Anne 1710, full title "An Act for the Encouragement of Learning, by vesting the Copies of Printed Books in the Authors or purchasers of such Copies, during the Times therein mentioned", was the first copyright statute.
+
+Copyright automatic since the international Berne Convention of 1886 
+
+---
+class: center
+# Extension by Congressional Acts
+
+![Copyright Extension](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tom_Bell%27s_graph_showing_extension_of_U.S._copyright_term_over_time.svg/2880px-Tom_Bell%27s_graph_showing_extension_of_U.S._copyright_term_over_time.svg.png# maxw-70pct center)
+
+???
+Copyright protection generally lasts for 70 years after the death of the author. If the work was a "work for hire", then copyright persists for 120 years after creation or 95 years after publication, whichever is shorter. For works created before 1978, the copyright duration rules are complicated. However, works created before 1923 have made their way into the public domain.
+
+---
+class: title roomy
+
+# Extension by Judicial Opinion
+
+???
+Gone with the Wind
+— estate of Margaret Mitchell, the novel’s author, commissioned sequels, effectively extending copyright over the original for another 95 years
+
+In May 2016, a judge determined that CBS’ remastered versions of old songs (pre-1972) get copyright — and owners of the originals can't stop the public performance of them.
+ABS owned Al Green’s recordings and CBS Radio played them without paying licensing royalties… 
+
+Remastering not merely “mechanical changes or processes ... such as a change in format, de-clicking and noise reduction,” nor are the changes “trivial,” nodding to the fact that experienced sound engineers were brought in for a reason. "Instead, the changes reflect 'multiple kinds of creative authorship, such as adjustments of equalization, sound editing and channel assignment,'”
+
+---
+class: center compact
+# Michael Mandiberg
+
+![Sturken's Mandiberg](mandiberg.jpg# maxw-65pct center)<small>[http://www.aftersherrielevine.com/](http://www.aftersherrielevine.com/)<br>
+[http://www.afterwalkerevans.com/](http://www.afterwalkerevans.com/)</small>
+
+???
+Artist interventions:<br>
+In 1936 Walker Evans photographed the Burroughs, a family of sharecroppers in Depression era Alabama. In 1979 in Sherrie Levine rephotographed Walker Evans' photographs from the exhibition catalog "First and Last." In 2001 Michael Mandiberg scanned these same photographs, and created AfterWalkerEvans.com and AfterSherrieLevine.com to facilitate their dissemination as a comment on how we come to know information in this burgeoning digital age. 
+
+---
+class: img-caption
+
+# Copyleft
+
+![Copyright](umberto-lhJrm1BRVV0-unsplash.jpg)
+
+---
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/25657835?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+---
+For Friday: 
+
+ **Nasher Tour for Paper #2**<br /><span style="color:red">*** MEET IN THE NASHER MUSEUM LOBBY ***</span>
+
+* Guided tour of the *[Roy Lichtenstein: History in the Making, 1948 – 1960](https://nasher.duke.edu/exhibitions/roy-lichtenstein-history-in-the-making-1948-1960/)* exhibition, Nasher's "[study storage](https://nasher.duke.edu/collection-research/)," and the exhibition  *[Beyond the Surface](https://nasher.duke.edu/exhibitions/beyond-the-surface-collage-mixed-media-and-textile-works-from-the-collection/)*
+
+* Bring only pencils, paper
+
+* Volunteer needed
+
+* Complete Quiz #5 by 11:59 PM
