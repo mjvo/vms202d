@@ -238,7 +238,7 @@ Guided tour of the *[Roy Lichtenstein: History in the Making, 1948 – 1960](htt
 
 Reading Due:
 
-* Theodor Adorno and Max Horkheimer, 1946. “The Culture Industry: Enlightenment as Mass Deception“
+* Theodor Adorno and Max Horkheimer, 1946. “[The Culture Industry: Enlightenment as Mass Deception](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Readings/hoarkheimeradorno1946.pdf)“
 
 
 ---
@@ -287,7 +287,7 @@ Reading Due:
 ## Friday, November 4
 **Discussion Sections**
 
-Due:  "The Visuality of a Nasher Exhibit" (Blog Post #2)
+Due:  "[The Visuality of the Nasher Museum](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Assignments/blog2_nasher_exhibition.pdf)" (Blog Post #2)
 
 ---
 
