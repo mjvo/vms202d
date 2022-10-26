@@ -1,5 +1,5 @@
 ---
-title: "Visual Tech, Reproduction, Copies    1"
+title: "Visual Tech, Reproduction, Copies 1"
 date: "2022-10-19"
 outputs: "Remark"
 
