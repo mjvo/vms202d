@@ -206,6 +206,10 @@ Your browser does not support the video tag.
 </video>
 
 ???
+
+Relate to Mirzoeff's idea of visualization . . . attempt to exert control over a situation
+
+But these simulations are increasingly automated . . . the idea that the "war game" can become war itself (and later, with the Gulf War and remote missile targeting, or more recently, drones -- for US soldiers, war and video games indistinguishable.   America's Army game as recruitment tool)
 p. 167:  substituting signs of the real for the real itself; that is, an operation to deter every real process by its operational double, a metastable, programmatic, perfect descriptive machine which provides all the signs of the real and short-circuits all its vicissitudes.
 
 ---
