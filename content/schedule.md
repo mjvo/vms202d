@@ -301,11 +301,8 @@ Reading Due:
 ---
 
 ## Wednesday, November 9
-**Brand Culture: The Images and Spaces of Consumption, Part 1**
+**Public Sphere or Spectacle**
 
-Reading Due:
-
-* _Practices of Looking_, Chapter 7 (pp. 257-278)
 
 ---
 
@@ -317,21 +314,20 @@ Reading Due:
 ---
 
 ## Monday, November 14
-**Brand Culture: The Images and Spaces of Communication, Part 2**
-
-Reading Due:
-
-* _Practices of Looking_, Chapter 7 (pp. 278-299)
-
-
----
-
-## Wednesday, November 16
 **Postmodernism: Irony, Parody, and Pastiche**
 
 Reading Due:
 
 * _Practices of Looking_, Chapter 8 (pp. 301-336)
+
+---
+
+## Wednesday, November 16
+**Brand Culture: The Images and Spaces of Communication**
+
+Reading Due:
+
+* _Practices of Looking_, Chapter 7 (pp. 257-299)
 
 --- 
 
