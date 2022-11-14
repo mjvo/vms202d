@@ -78,7 +78,7 @@ Fredric Jameson, "Postmodernism, or the Cultural Logic of Late Capitalism" (1984
 
 --
 
-#### >>> Make America Great Again?
+#### >>> [Make America Great Again?](https://youtu.be/uVQvWwHM5kM)
 
 ---
 class: compact
