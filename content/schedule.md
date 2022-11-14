@@ -374,14 +374,12 @@ Reading Due:
 
 * _Practices of Looking_, Chapter 10 (pp. 379-402)
 
-<span class="tag is-danger">Due Tuesday, Nov 23rd by 5PM:</span>
-
-* Blog #3 - Extending Theory: Critical Visual Analysis
-
 ---
 
 ## Friday, December 2
 **Discussion Sections**
+
+* Due: Extending Theory: Critical Visual Analysis (Blog Post #3)
 
 <span class="tag is-warning">Complete Quiz #9 by 11:59 PM</span>
 
@@ -412,4 +410,4 @@ Reading Due:
 
 <span class="tag is-danger">Final Exam</span>
 
-9:00 AM - 12:00 PM
+9:00 AM - 12:00 PM<br />Nasher Auditorium
