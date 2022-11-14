@@ -15,6 +15,15 @@ themes:
 highlight_style: "atom-one-dark"
 
 ---
+![Meshroom Announcement](meshroom.jpg# w-100pct)
+
+???
+Relates to Situationist praxis
+
+> Meshroom is a performance environment that forms an intellectual/intentional community around an open dancefloor. It is a space for transcending narrow languages, ungrounding from fixed realities, and co-creating temporary worlds in movement. Meshroom is shaped by the movement, dreams, hopes, and queerness of everyone in the room: it is a weaving of wild minds and soft bodies. All visitors are welcome to move, rest, witness, think, melt, and dance with live music and occasional performances. 
+
+
+---
 class: title, smokescreen, shelf, no-footer
 background-image: url(postmodern_arch.jpg)
 
