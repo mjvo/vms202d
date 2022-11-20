@@ -381,7 +381,7 @@ Reading Due:
 
 * Due: [Extending Theory: Critical Visual Analysis](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Assignments/blog3_critical_visual_analysis.pdf) (Blog Post #3)
 
-<span class="tag is-warning">Complete Quiz #9 by 11:59 PM</span>
+
 
 ---
 
@@ -396,6 +396,8 @@ Reading Due:
 
 ## Wednesday, December 7
 **Review for Final Exam** 
+
+<span class="tag is-warning">Complete Quiz #9 by 11:59 PM</span>
 
 ---
 
