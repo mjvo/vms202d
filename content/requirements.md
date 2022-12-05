@@ -74,7 +74,7 @@ Additional readings are linked from the <a href="../schedule/">schedule</a> to o
 2. **Quizzes**
 
     _20% of course grade_   
-    There will be nine (9) short (10-minute) quizzes posted to Sakai throughout the semetser. _The lowest quiz grade will discarded._
+    There will be nine (9) short (20-minute) quizzes posted to Sakai throughout the semester. _The lowest quiz grade will discarded._
     
     Quizzes will focus on material covered in the assigned readings for the week as well as key terms drawn from the extensive Glossary at the back of the textbook.
 
