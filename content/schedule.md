@@ -301,8 +301,11 @@ Reading Due:
 ---
 
 ## Wednesday, November 9
-**Public Sphere or Spectacle**
+**Public Sphere or Spectacle?**
 
+Review:
+
+* _Practices of Looking_, Chapter 6
 
 ---
 
@@ -379,7 +382,7 @@ Reading Due:
 ## Friday, December 2
 **Discussion Sections**
 
-* Due: [Extending Theory: Critical Visual Analysis](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Assignments/blog3_critical_visual_analysis.pdf) (Blog Post #3)
+* Due Friday before 11:59 PM: [Extending Theory: Critical Visual Analysis](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/Assignments/blog3_critical_visual_analysis.pdf) (Blog Post #3)
 
 
 
