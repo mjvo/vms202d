@@ -400,6 +400,8 @@ Reading Due:
 ## Wednesday, December 7
 **Review for Final Exam** 
 
+[Final Exam Review Sheet](https://sakai.duke.edu/access/content/group/VMS-202D-001-F22/FinalExam_Review.pdf)
+
 <span class="tag is-warning">Complete Quiz #9 by 11:59 PM</span>
 
 ---
